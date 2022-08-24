@@ -1,0 +1,12 @@
+500
+50
+add_tasks 1 1500 105
+add_tasks 5 1500 68
+get_task 14810
+print waiting
+add_tasks 3 1500 83
+add_tasks 4 1000 40
+add_tasks 2 1000 22
+add_tasks 5 2500 53
+print waiting
+add_tasks 1 2000 42

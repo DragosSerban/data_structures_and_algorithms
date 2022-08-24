@@ -1,0 +1,75 @@
+100
+61
+add_tasks 24 7398 76
+get_task 4611
+print waiting
+run 4111473
+print running
+print waiting
+add_tasks 26 995 70
+run 5124160
+print running
+add_tasks 42 2139 102
+get_task 17
+get_thread 32
+add_tasks 22 7955 115
+add_tasks 38 8331 115
+print running
+print waiting
+add_tasks 34 7101 100
+get_task 43
+run 2687486
+add_tasks 45 7294 123
+print running
+add_tasks 30 5136 124
+get_thread 36
+run 6032052
+get_thread 84
+get_task 116
+run 3795489
+add_tasks 41 1758 39
+add_tasks 2 5450 126
+print running
+get_task 29055
+print running
+add_tasks 37 680 6
+add_tasks 12 3560 5
+run 7026451
+run 2942984
+get_task 26796
+add_tasks 5 9527 104
+print running
+get_task 18457
+print running
+get_task 102
+add_tasks 38 1618 92
+add_tasks 16 7152 89
+get_thread 44
+get_thread 113
+print waiting
+get_task 9277
+add_tasks 22 5861 57
+print waiting
+add_tasks 11 1601 8
+add_tasks 23 6234 3
+get_thread 63
+add_tasks 10 7205 57
+print running
+print waiting
+run 6606204
+run 9394134
+print waiting
+run 6356259
+print waiting
+print running
+add_tasks 37 181 115
+get_task 476
+get_task 414
+print waiting
+print waiting
+add_tasks 7 9073 68
+print waiting
+print running
+run 5555351
+add_tasks 13 120 100
+get_thread 111

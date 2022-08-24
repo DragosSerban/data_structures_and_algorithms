@@ -1,0 +1,147 @@
+100
+45
+add_tasks 7 9351 50
+add_tasks 48 3424 43
+get_thread 36
+print finished
+print waiting
+add_tasks 18 4190 114
+add_tasks 4 2932 25
+add_tasks 13 9016 12
+add_tasks 42 3090 55
+add_tasks 39 4784 28
+get_task 116
+get_thread 90
+run 2451441
+print waiting
+print waiting
+print waiting
+print finished
+get_task 46
+print running
+print running
+add_tasks 46 2015 94
+print finished
+get_thread 19
+print waiting
+get_task 79
+get_task 495
+get_task 89
+print running
+print finished
+print finished
+print waiting
+print waiting
+print finished
+print waiting
+print finished
+run 6078074
+run 4497926
+add_tasks 43 6740 72
+print running
+print waiting
+print running
+print running
+add_tasks 21 5287 122
+print running
+run 5635378
+add_tasks 34 2193 37
+get_task 298
+print running
+add_tasks 37 2304 112
+get_thread 25
+print finished
+print running
+add_tasks 9 3558 104
+print waiting
+print waiting
+get_thread 60
+run 2304989
+print running
+get_thread 30
+add_tasks 26 1149 17
+get_thread 26
+get_thread 12
+print running
+get_thread 27
+print running
+run 922507
+print running
+run 7634796
+print finished
+run 1461129
+print waiting
+print finished
+print running
+get_task 295
+print finished
+get_thread 78
+print running
+get_thread 84
+get_task 244
+add_tasks 14 9547 36
+print running
+print running
+add_tasks 43 4685 57
+get_task 216
+get_thread 60
+get_thread 58
+print running
+print waiting
+print waiting
+print waiting
+add_tasks 6 3149 107
+get_thread 90
+print finished
+add_tasks 39 8754 29
+run 8189726
+print finished
+print running
+get_thread 37
+run 6079475
+print waiting
+print running
+run 4121184
+get_task 322
+add_tasks 21 9256 21
+get_task 9
+get_task 233
+get_thread 72
+get_thread 58
+print running
+print waiting
+run 3973099
+get_thread 73
+print running
+print waiting
+print finished
+run 474659
+get_thread 64
+get_task 81
+print waiting
+print running
+print waiting
+print finished
+get_thread 84
+print waiting
+print running
+print finished
+get_thread 90
+print waiting
+get_thread 35
+print running
+print waiting
+print running
+add_tasks 18 193 92
+print finished
+print running
+print finished
+get_task 114
+add_tasks 47 1815 88
+get_thread 65
+print waiting
+print finished
+print waiting
+add_tasks 21 2860 58
+print finished
+finish

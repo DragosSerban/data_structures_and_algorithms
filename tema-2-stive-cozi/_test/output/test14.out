@@ -1,0 +1,173 @@
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Task created successfully : ID 9.
+Task created successfully : ID 10.
+Task created successfully : ID 11.
+Task created successfully : ID 12.
+====== Waiting queue =======
+[(10: priority = 21, remaining_time = 1800),
+(11: priority = 21, remaining_time = 1800),
+(12: priority = 21, remaining_time = 1800),
+(1: priority = 11, remaining_time = 4500),
+(2: priority = 11, remaining_time = 4500),
+(3: priority = 11, remaining_time = 4500),
+(4: priority = 11, remaining_time = 4500),
+(5: priority = 11, remaining_time = 4500),
+(6: priority = 11, remaining_time = 4500),
+(7: priority = 11, remaining_time = 4500),
+(8: priority = 11, remaining_time = 4500),
+(9: priority = 11, remaining_time = 4500)]
+Task created successfully : ID 13.
+Task created successfully : ID 14.
+Task created successfully : ID 15.
+Task created successfully : ID 16.
+Task created successfully : ID 17.
+Task created successfully : ID 18.
+Task created successfully : ID 19.
+Task created successfully : ID 20.
+Task created successfully : ID 21.
+Task created successfully : ID 22.
+Task created successfully : ID 23.
+Task created successfully : ID 24.
+Task created successfully : ID 25.
+Task created successfully : ID 26.
+Task created successfully : ID 27.
+Task created successfully : ID 28.
+Task created successfully : ID 29.
+Task created successfully : ID 30.
+Task created successfully : ID 31.
+Task created successfully : ID 32.
+Task created successfully : ID 33.
+Task created successfully : ID 34.
+Task created successfully : ID 35.
+Task created successfully : ID 36.
+Task created successfully : ID 37.
+Task created successfully : ID 38.
+Task created successfully : ID 39.
+Task created successfully : ID 40.
+Task created successfully : ID 41.
+Task created successfully : ID 42.
+Task created successfully : ID 43.
+Task created successfully : ID 44.
+Task created successfully : ID 45.
+Task created successfully : ID 46.
+Task created successfully : ID 47.
+Task created successfully : ID 48.
+Task created successfully : ID 49.
+Task created successfully : ID 50.
+Task created successfully : ID 51.
+Task created successfully : ID 52.
+Task 33 is waiting (remaining_time = 3600).
+Task created successfully : ID 53.
+====== Waiting queue =======
+[(38: priority = 105, remaining_time = 2700),
+(39: priority = 105, remaining_time = 2700),
+(40: priority = 105, remaining_time = 2700),
+(41: priority = 105, remaining_time = 2700),
+(42: priority = 105, remaining_time = 2700),
+(53: priority = 105, remaining_time = 3600),
+(13: priority = 97, remaining_time = 4500),
+(14: priority = 97, remaining_time = 4500),
+(15: priority = 97, remaining_time = 4500),
+(16: priority = 97, remaining_time = 4500),
+(17: priority = 97, remaining_time = 4500),
+(48: priority = 76, remaining_time = 4500),
+(49: priority = 76, remaining_time = 4500),
+(50: priority = 76, remaining_time = 4500),
+(51: priority = 76, remaining_time = 4500),
+(52: priority = 76, remaining_time = 4500),
+(28: priority = 65, remaining_time = 3600),
+(29: priority = 65, remaining_time = 3600),
+(30: priority = 65, remaining_time = 3600),
+(31: priority = 65, remaining_time = 3600),
+(32: priority = 65, remaining_time = 3600),
+(33: priority = 65, remaining_time = 3600),
+(34: priority = 65, remaining_time = 3600),
+(35: priority = 65, remaining_time = 3600),
+(36: priority = 65, remaining_time = 3600),
+(37: priority = 65, remaining_time = 3600),
+(43: priority = 32, remaining_time = 4500),
+(44: priority = 32, remaining_time = 4500),
+(45: priority = 32, remaining_time = 4500),
+(46: priority = 32, remaining_time = 4500),
+(47: priority = 32, remaining_time = 4500),
+(10: priority = 21, remaining_time = 1800),
+(11: priority = 21, remaining_time = 1800),
+(12: priority = 21, remaining_time = 1800),
+(1: priority = 11, remaining_time = 4500),
+(2: priority = 11, remaining_time = 4500),
+(3: priority = 11, remaining_time = 4500),
+(4: priority = 11, remaining_time = 4500),
+(5: priority = 11, remaining_time = 4500),
+(6: priority = 11, remaining_time = 4500),
+(7: priority = 11, remaining_time = 4500),
+(8: priority = 11, remaining_time = 4500),
+(9: priority = 11, remaining_time = 4500),
+(18: priority = 9, remaining_time = 1800),
+(19: priority = 9, remaining_time = 1800),
+(20: priority = 9, remaining_time = 1800),
+(21: priority = 9, remaining_time = 1800),
+(22: priority = 9, remaining_time = 1800),
+(23: priority = 9, remaining_time = 1800),
+(24: priority = 9, remaining_time = 1800),
+(25: priority = 9, remaining_time = 1800),
+(26: priority = 9, remaining_time = 1800),
+(27: priority = 9, remaining_time = 1800)]
+Running tasks for 1800 ms...
+Task 32 is running (remaining_time = 1800).
+Running tasks for 4500 ms...
+Task 32 is finished (executed_time = 3600).
+Running tasks for 3600 ms...
+Thread 34 is idle.
+Task created successfully : ID 1.
+Thread 24 is idle.
+====== Waiting queue =======
+[(1: priority = 1, remaining_time = 4500)]
+Task 34 is finished (executed_time = 3600).
+====== Waiting queue =======
+[(1: priority = 1, remaining_time = 4500)]
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Thread 17 is idle.
+Thread 33 is idle.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Task created successfully : ID 9.
+Task created successfully : ID 10.
+Task created successfully : ID 11.
+Task created successfully : ID 12.
+Task created successfully : ID 13.
+Task created successfully : ID 14.
+Task created successfully : ID 15.
+Task created successfully : ID 16.
+====== Waiting queue =======
+[(7: priority = 103, remaining_time = 1800),
+(8: priority = 103, remaining_time = 1800),
+(9: priority = 103, remaining_time = 1800),
+(10: priority = 103, remaining_time = 1800),
+(11: priority = 103, remaining_time = 1800),
+(12: priority = 103, remaining_time = 1800),
+(13: priority = 103, remaining_time = 1800),
+(14: priority = 103, remaining_time = 1800),
+(15: priority = 103, remaining_time = 1800),
+(16: priority = 103, remaining_time = 1800),
+(4: priority = 24, remaining_time = 900),
+(5: priority = 24, remaining_time = 900),
+(6: priority = 24, remaining_time = 900),
+(2: priority = 4, remaining_time = 1800),
+(3: priority = 4, remaining_time = 1800),
+(1: priority = 1, remaining_time = 4500)]
+Running tasks for 3600 ms...
+====== Waiting queue =======
+[]
+Thread 7 is idle.
+Task 29 is finished (executed_time = 3600).

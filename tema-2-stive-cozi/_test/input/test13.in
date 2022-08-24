@@ -1,0 +1,12 @@
+700
+40
+add_tasks 5 2100 114
+add_tasks 2 2800 98
+add_tasks 4 3500 45
+add_tasks 2 3500 67
+add_tasks 1 700 71
+print waiting
+run 2800
+print waiting
+run 4200
+print waiting

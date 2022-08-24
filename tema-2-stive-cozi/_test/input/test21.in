@@ -1,0 +1,127 @@
+1000
+40
+print running
+add_tasks 5 7692 52
+run 3186855
+add_tasks 9 2988 2
+add_tasks 6 8026 122
+add_tasks 3 2006 6
+add_tasks 47 56 18
+run 2370245
+get_thread 4
+add_tasks 14 7652 114
+print waiting
+get_thread 35
+add_tasks 3 4367 102
+get_task 36
+run 9280316
+print running
+print waiting
+print waiting
+print finished
+print waiting
+print waiting
+add_tasks 35 4312 43
+print waiting
+get_thread 72
+print waiting
+run 2790546
+print waiting
+add_tasks 22 9882 81
+get_thread 76
+print finished
+run 6219299
+print running
+add_tasks 3 5553 6
+print waiting
+get_task 6
+run 5439950
+print finished
+get_thread 47
+run 2951652
+add_tasks 45 3835 32
+add_tasks 48 8469 45
+print running
+print finished
+get_thread 50
+get_task 61
+print waiting
+print waiting
+run 937137
+run 2247441
+print running
+print finished
+print running
+get_task 167
+run 6181587
+run 358446
+get_task 220
+run 4804581
+add_tasks 31 2019 34
+print running
+add_tasks 18 2796 69
+print finished
+print finished
+print running
+print waiting
+get_thread 73
+run 1702716
+print running
+get_thread 21
+print running
+get_task 107
+print running
+get_task 31134
+run 6255548
+run 597183
+get_task 6653
+print running
+get_task 256
+print finished
+print running
+print running
+add_tasks 5 6837 59
+get_task 39
+run 9231211
+print finished
+get_task 31227
+add_tasks 5 1879 121
+print waiting
+get_thread 79
+print running
+print waiting
+print running
+get_task 15705
+add_tasks 3 9884 24
+get_thread 12
+get_thread 69
+print waiting
+run 303852
+add_tasks 9 6728 84
+add_tasks 31 2822 123
+get_thread 12
+print finished
+run 8252450
+print finished
+run 2432409
+get_task 5288
+print finished
+print running
+get_thread 6
+add_tasks 39 6064 97
+print running
+get_thread 9
+print waiting
+run 7098976
+print waiting
+get_task 76
+add_tasks 7 8662 46
+print finished
+get_task 192
+print finished
+print finished
+print finished
+run 8549370
+print finished
+print waiting
+add_tasks 41 3485 5

@@ -1,0 +1,47 @@
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+====== Waiting queue =======
+[(1: priority = 65, remaining_time = 1000),
+(2: priority = 65, remaining_time = 1000),
+(3: priority = 65, remaining_time = 1000),
+(4: priority = 65, remaining_time = 1000),
+(5: priority = 65, remaining_time = 1000)]
+Running tasks for 1600 ms...
+Thread 4 is idle.
+Task 17827 not found.
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Task created successfully : ID 9.
+Thread 18 is idle.
+Task created successfully : ID 10.
+Task created successfully : ID 11.
+Thread 13 is idle.
+Task created successfully : ID 12.
+Running tasks for 1800 ms...
+====== Running in parallel =======
+[]
+Thread 12 is idle.
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Running tasks for 200 ms...
+====== Running in parallel =======
+[(1: priority = 0, remaining_time = 200, running_thread = 1),
+(2: priority = 0, remaining_time = 200, running_thread = 2),
+(3: priority = 0, remaining_time = 200, running_thread = 3),
+(4: priority = 0, remaining_time = 200, running_thread = 4),
+(5: priority = 0, remaining_time = 200, running_thread = 11)]
+====== Waiting queue =======
+[]
+Thread 2 is running task 2 (remaining_time = 200).

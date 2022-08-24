@@ -1,0 +1,18 @@
+200
+11
+add_tasks 5 1000 46
+add_tasks 3 600 88
+add_tasks 1 400 107
+add_tasks 2 400 55
+get_task 2
+add_tasks 1 200 117
+add_tasks 1 200 26
+get_task 6
+get_task 5947
+add_tasks 3 800 105
+get_task 5
+get_task 10
+add_tasks 1 1000 96
+add_tasks 2 800 127
+add_tasks 1 200 28
+get_task 16

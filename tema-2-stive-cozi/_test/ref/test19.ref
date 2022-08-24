@@ -1,0 +1,41 @@
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task 3 is waiting (remaining_time = 1000).
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Running tasks for 5000 ms...
+====== Finished queue =======
+[(2: priority = 49, executed_time = 1000),
+(3: priority = 49, executed_time = 1000),
+(1: priority = 4, executed_time = 1000),
+(4: priority = 76, executed_time = 1500),
+(5: priority = 76, executed_time = 1500),
+(6: priority = 76, executed_time = 1500)]
+====== Waiting queue =======
+[]
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Thread 33 is idle.
+Thread 100 is idle.
+====== Finished queue =======
+[(2: priority = 49, executed_time = 1000),
+(3: priority = 49, executed_time = 1000),
+(1: priority = 4, executed_time = 1000),
+(4: priority = 76, executed_time = 1500),
+(5: priority = 76, executed_time = 1500),
+(6: priority = 76, executed_time = 1500)]
+Task 11 not found.
+Thread 75 is idle.
+Thread 94 is idle.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Running tasks for 4500 ms...
+Thread 45 is idle.
+Task 14 not found.
+Running tasks for 3500 ms...

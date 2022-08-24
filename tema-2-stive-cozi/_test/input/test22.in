@@ -1,0 +1,17 @@
+200
+60
+get_thread 62
+add_tasks 5 400 51
+add_tasks 1 1000 59
+add_tasks 4 600 75
+add_tasks 3 600 57
+add_tasks 3 800 43
+add_tasks 5 400 108
+print waiting
+add_tasks 3 400 8
+add_tasks 3 800 0
+print finished
+print running
+print finished
+get_thread 51
+finish

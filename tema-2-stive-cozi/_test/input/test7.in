@@ -1,0 +1,21 @@
+300
+6
+add_tasks 1 900 125
+add_tasks 1 900 58
+add_tasks 1 300 50
+add_tasks 5 900 45
+add_tasks 2 1500 32
+add_tasks 4 900 122
+get_task 7
+get_thread 2
+add_tasks 1 300 64
+add_tasks 2 900 33
+get_thread 7
+add_tasks 5 900 32
+get_task 22299
+get_thread 12
+get_task 18
+add_tasks 5 900 105
+get_thread 11
+add_tasks 4 300 126
+add_tasks 4 300 11

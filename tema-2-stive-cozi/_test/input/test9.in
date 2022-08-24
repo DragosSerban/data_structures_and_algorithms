@@ -1,0 +1,54 @@
+700
+34
+add_tasks 100 3411 99
+add_tasks 89 8928 77
+add_tasks 3 6529 125
+add_tasks 7 7911 70
+add_tasks 89 4813 117
+get_thread 45
+add_tasks 8 7004 87
+add_tasks 50 6588 117
+get_task 63
+add_tasks 44 456 83
+get_task 294
+get_task 178
+get_task 7
+get_thread 17
+get_thread 59
+get_thread 68
+get_task 369
+get_thread 25
+get_thread 14
+add_tasks 39 4525 97
+get_thread 53
+get_task 71
+add_tasks 31 9380 94
+get_thread 51
+add_tasks 79 9272 99
+get_task 160
+get_thread 10
+get_thread 40
+add_tasks 13 5385 26
+get_task 482
+get_task 29197
+add_tasks 36 4430 96
+add_tasks 11 317 74
+get_thread 14
+get_thread 28
+get_task 391
+get_task 116
+get_thread 38
+get_task 475
+get_task 508
+add_tasks 77 4638 99
+add_tasks 70 3352 73
+get_task 476
+add_tasks 59 6920 119
+get_task 14529
+get_task 748
+get_thread 59
+get_task 288
+get_thread 23
+get_task 366
+get_thread 27
+add_tasks 21 9615 100

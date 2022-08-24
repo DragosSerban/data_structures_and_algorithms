@@ -1,0 +1,36 @@
+900
+20
+add_tasks 9 4500 11
+add_tasks 3 1800 21
+print waiting
+add_tasks 5 4500 97
+add_tasks 10 1800 9
+add_tasks 10 3600 65
+add_tasks 5 2700 105
+add_tasks 5 4500 32
+add_tasks 5 4500 76
+get_task 33
+add_tasks 1 3600 105
+print waiting
+run 1800
+get_task 32
+run 4500
+get_thread 40
+get_task 32
+run 3600
+get_thread 34
+add_tasks 1 4500 1
+get_thread 24
+print waiting
+get_task 34
+print waiting
+add_tasks 2 1800 4
+add_tasks 3 900 24
+get_thread 17
+get_thread 33
+add_tasks 10 1800 103
+print waiting
+run 3600
+print waiting
+get_thread 7
+get_task 29

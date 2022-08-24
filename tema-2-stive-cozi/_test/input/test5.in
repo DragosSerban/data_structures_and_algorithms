@@ -1,0 +1,32 @@
+800
+14
+add_tasks 4 4000 57
+get_task 1
+add_tasks 1 4000 89
+get_task 29543
+get_task 4
+add_tasks 4 1600 21
+add_tasks 2 3200 86
+add_tasks 2 2400 9
+add_tasks 2 4000 94
+add_tasks 5 2400 32
+get_task 26705
+add_tasks 3 3200 54
+get_task 9
+get_task 5562
+add_tasks 3 2400 24
+add_tasks 2 1600 7
+add_tasks 4 2400 50
+get_task 27
+get_task 22
+add_tasks 2 3200 47
+get_task 11
+get_task 26
+add_tasks 1 3200 13
+get_task 18872
+add_tasks 2 2400 99
+add_tasks 2 800 40
+get_task 8
+get_task 19
+get_task 20217
+get_task 14

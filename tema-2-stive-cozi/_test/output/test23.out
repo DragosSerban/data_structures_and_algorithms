@@ -1,0 +1,2219 @@
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Task created successfully : ID 9.
+Task created successfully : ID 10.
+Task created successfully : ID 11.
+Task created successfully : ID 12.
+Task created successfully : ID 13.
+Task created successfully : ID 14.
+Task created successfully : ID 15.
+Task created successfully : ID 16.
+Task created successfully : ID 17.
+Task created successfully : ID 18.
+Task created successfully : ID 19.
+Task created successfully : ID 20.
+Task created successfully : ID 21.
+Task created successfully : ID 22.
+Task created successfully : ID 23.
+Task created successfully : ID 24.
+Task created successfully : ID 25.
+Task created successfully : ID 26.
+Task created successfully : ID 27.
+Task created successfully : ID 28.
+Task created successfully : ID 29.
+Task created successfully : ID 30.
+Running tasks for 7668523 ms...
+====== Waiting queue =======
+[]
+====== Waiting queue =======
+[]
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Task created successfully : ID 9.
+Task created successfully : ID 10.
+Task created successfully : ID 11.
+Task created successfully : ID 12.
+Task created successfully : ID 13.
+Task created successfully : ID 14.
+Task created successfully : ID 15.
+Task created successfully : ID 16.
+Task created successfully : ID 17.
+Task created successfully : ID 18.
+Task created successfully : ID 19.
+Task created successfully : ID 20.
+Task created successfully : ID 21.
+====== Running in parallel =======
+[]
+Task created successfully : ID 22.
+Task created successfully : ID 23.
+Task created successfully : ID 24.
+Task created successfully : ID 25.
+Task created successfully : ID 26.
+Task created successfully : ID 27.
+Task created successfully : ID 28.
+Task created successfully : ID 29.
+Task created successfully : ID 30.
+Task created successfully : ID 31.
+Task created successfully : ID 32.
+Task created successfully : ID 33.
+Task created successfully : ID 34.
+Task created successfully : ID 35.
+Task created successfully : ID 36.
+Task created successfully : ID 37.
+Task created successfully : ID 38.
+Task created successfully : ID 39.
+Task created successfully : ID 40.
+Task created successfully : ID 41.
+Task created successfully : ID 42.
+Task created successfully : ID 43.
+Task created successfully : ID 44.
+Task created successfully : ID 45.
+Task created successfully : ID 46.
+Task created successfully : ID 47.
+Task created successfully : ID 48.
+Task created successfully : ID 49.
+Task created successfully : ID 50.
+Task created successfully : ID 51.
+Task created successfully : ID 52.
+Task created successfully : ID 53.
+Task created successfully : ID 54.
+Task created successfully : ID 55.
+Task created successfully : ID 56.
+Task created successfully : ID 57.
+Task created successfully : ID 58.
+Task created successfully : ID 59.
+Task created successfully : ID 60.
+Task created successfully : ID 61.
+Task created successfully : ID 62.
+Task created successfully : ID 63.
+Task created successfully : ID 64.
+Task created successfully : ID 65.
+Task created successfully : ID 66.
+Task created successfully : ID 67.
+Task created successfully : ID 68.
+Task created successfully : ID 69.
+Task created successfully : ID 70.
+Task created successfully : ID 71.
+Task created successfully : ID 72.
+Task created successfully : ID 73.
+Task created successfully : ID 74.
+Task created successfully : ID 75.
+Task created successfully : ID 76.
+Task created successfully : ID 77.
+Task created successfully : ID 78.
+Task created successfully : ID 79.
+Task created successfully : ID 80.
+Task created successfully : ID 81.
+Task created successfully : ID 82.
+Task created successfully : ID 83.
+Task created successfully : ID 84.
+Task created successfully : ID 85.
+Task created successfully : ID 86.
+Task created successfully : ID 87.
+Task created successfully : ID 88.
+Task created successfully : ID 89.
+Task created successfully : ID 90.
+Task created successfully : ID 91.
+Task created successfully : ID 92.
+Task created successfully : ID 93.
+Task created successfully : ID 94.
+Task created successfully : ID 95.
+Task created successfully : ID 96.
+Task created successfully : ID 97.
+Task created successfully : ID 98.
+Task created successfully : ID 99.
+Task created successfully : ID 100.
+Task 65 is waiting (remaining_time = 2958).
+Thread 51 is idle.
+====== Finished queue =======
+[(1: priority = 3, executed_time = 6094),
+(2: priority = 3, executed_time = 6094),
+(3: priority = 3, executed_time = 6094),
+(4: priority = 3, executed_time = 6094),
+(5: priority = 3, executed_time = 6094),
+(6: priority = 3, executed_time = 6094),
+(7: priority = 3, executed_time = 6094),
+(8: priority = 3, executed_time = 6094),
+(9: priority = 3, executed_time = 6094),
+(10: priority = 3, executed_time = 6094),
+(11: priority = 3, executed_time = 6094),
+(12: priority = 3, executed_time = 6094),
+(13: priority = 3, executed_time = 6094),
+(14: priority = 3, executed_time = 6094),
+(15: priority = 3, executed_time = 6094),
+(16: priority = 3, executed_time = 6094),
+(17: priority = 3, executed_time = 6094),
+(18: priority = 3, executed_time = 6094),
+(19: priority = 3, executed_time = 6094),
+(20: priority = 3, executed_time = 6094),
+(21: priority = 3, executed_time = 6094),
+(22: priority = 3, executed_time = 6094),
+(23: priority = 3, executed_time = 6094),
+(24: priority = 3, executed_time = 6094),
+(25: priority = 3, executed_time = 6094),
+(26: priority = 3, executed_time = 6094),
+(27: priority = 3, executed_time = 6094),
+(28: priority = 3, executed_time = 6094),
+(29: priority = 3, executed_time = 6094),
+(30: priority = 3, executed_time = 6094)]
+====== Running in parallel =======
+[]
+====== Running in parallel =======
+[]
+Running tasks for 8950127 ms...
+Running tasks for 4973193 ms...
+Task 28 is finished (executed_time = 6094).
+====== Finished queue =======
+[(1: priority = 3, executed_time = 6094),
+(2: priority = 3, executed_time = 6094),
+(3: priority = 3, executed_time = 6094),
+(4: priority = 3, executed_time = 6094),
+(5: priority = 3, executed_time = 6094),
+(6: priority = 3, executed_time = 6094),
+(7: priority = 3, executed_time = 6094),
+(8: priority = 3, executed_time = 6094),
+(9: priority = 3, executed_time = 6094),
+(10: priority = 3, executed_time = 6094),
+(11: priority = 3, executed_time = 6094),
+(12: priority = 3, executed_time = 6094),
+(13: priority = 3, executed_time = 6094),
+(14: priority = 3, executed_time = 6094),
+(15: priority = 3, executed_time = 6094),
+(16: priority = 3, executed_time = 6094),
+(17: priority = 3, executed_time = 6094),
+(18: priority = 3, executed_time = 6094),
+(19: priority = 3, executed_time = 6094),
+(20: priority = 3, executed_time = 6094),
+(21: priority = 3, executed_time = 6094),
+(22: priority = 3, executed_time = 6094),
+(23: priority = 3, executed_time = 6094),
+(24: priority = 3, executed_time = 6094),
+(25: priority = 3, executed_time = 6094),
+(26: priority = 3, executed_time = 6094),
+(27: priority = 3, executed_time = 6094),
+(28: priority = 3, executed_time = 6094),
+(29: priority = 3, executed_time = 6094),
+(30: priority = 3, executed_time = 6094),
+(22: priority = 123, executed_time = 2153),
+(23: priority = 123, executed_time = 2153),
+(24: priority = 123, executed_time = 2153),
+(25: priority = 123, executed_time = 2153),
+(26: priority = 123, executed_time = 2153),
+(27: priority = 123, executed_time = 2153),
+(28: priority = 123, executed_time = 2153),
+(29: priority = 123, executed_time = 2153),
+(30: priority = 123, executed_time = 2153),
+(31: priority = 74, executed_time = 2958),
+(32: priority = 74, executed_time = 2958),
+(33: priority = 74, executed_time = 2958),
+(34: priority = 74, executed_time = 2958),
+(35: priority = 74, executed_time = 2958),
+(36: priority = 74, executed_time = 2958),
+(37: priority = 74, executed_time = 2958),
+(38: priority = 74, executed_time = 2958),
+(39: priority = 74, executed_time = 2958),
+(40: priority = 74, executed_time = 2958),
+(41: priority = 74, executed_time = 2958),
+(42: priority = 74, executed_time = 2958),
+(43: priority = 74, executed_time = 2958),
+(44: priority = 74, executed_time = 2958),
+(45: priority = 74, executed_time = 2958),
+(46: priority = 74, executed_time = 2958),
+(47: priority = 74, executed_time = 2958),
+(48: priority = 74, executed_time = 2958),
+(49: priority = 74, executed_time = 2958),
+(50: priority = 74, executed_time = 2958),
+(51: priority = 74, executed_time = 2958),
+(52: priority = 74, executed_time = 2958),
+(53: priority = 74, executed_time = 2958),
+(54: priority = 74, executed_time = 2958),
+(55: priority = 74, executed_time = 2958),
+(56: priority = 74, executed_time = 2958),
+(57: priority = 74, executed_time = 2958),
+(58: priority = 74, executed_time = 2958),
+(59: priority = 74, executed_time = 2958),
+(60: priority = 74, executed_time = 2958),
+(61: priority = 74, executed_time = 2958),
+(62: priority = 74, executed_time = 2958),
+(63: priority = 74, executed_time = 2958),
+(64: priority = 74, executed_time = 2958),
+(65: priority = 74, executed_time = 2958),
+(66: priority = 74, executed_time = 2958),
+(67: priority = 74, executed_time = 2958),
+(68: priority = 46, executed_time = 4616),
+(69: priority = 46, executed_time = 4616),
+(70: priority = 46, executed_time = 4616),
+(71: priority = 46, executed_time = 4616),
+(72: priority = 46, executed_time = 4616),
+(73: priority = 46, executed_time = 4616),
+(74: priority = 46, executed_time = 4616),
+(75: priority = 46, executed_time = 4616),
+(76: priority = 46, executed_time = 4616),
+(77: priority = 46, executed_time = 4616),
+(78: priority = 46, executed_time = 4616),
+(79: priority = 46, executed_time = 4616),
+(80: priority = 46, executed_time = 4616),
+(81: priority = 46, executed_time = 4616),
+(82: priority = 46, executed_time = 4616),
+(83: priority = 46, executed_time = 4616),
+(84: priority = 46, executed_time = 4616),
+(85: priority = 46, executed_time = 4616),
+(86: priority = 46, executed_time = 4616),
+(87: priority = 46, executed_time = 4616),
+(88: priority = 46, executed_time = 4616),
+(89: priority = 46, executed_time = 4616),
+(90: priority = 46, executed_time = 4616),
+(91: priority = 46, executed_time = 4616),
+(92: priority = 46, executed_time = 4616),
+(93: priority = 46, executed_time = 4616),
+(94: priority = 46, executed_time = 4616),
+(95: priority = 46, executed_time = 4616),
+(1: priority = 108, executed_time = 9738),
+(2: priority = 108, executed_time = 9738),
+(3: priority = 108, executed_time = 9738),
+(4: priority = 108, executed_time = 9738),
+(5: priority = 108, executed_time = 9738),
+(6: priority = 108, executed_time = 9738),
+(7: priority = 108, executed_time = 9738),
+(8: priority = 108, executed_time = 9738),
+(9: priority = 108, executed_time = 9738),
+(10: priority = 108, executed_time = 9738),
+(11: priority = 108, executed_time = 9738),
+(12: priority = 108, executed_time = 9738),
+(13: priority = 108, executed_time = 9738),
+(14: priority = 108, executed_time = 9738),
+(15: priority = 108, executed_time = 9738),
+(16: priority = 108, executed_time = 9738),
+(17: priority = 108, executed_time = 9738),
+(18: priority = 108, executed_time = 9738),
+(19: priority = 108, executed_time = 9738),
+(20: priority = 108, executed_time = 9738),
+(21: priority = 108, executed_time = 9738),
+(96: priority = 46, executed_time = 4616),
+(97: priority = 46, executed_time = 4616),
+(98: priority = 46, executed_time = 4616),
+(99: priority = 46, executed_time = 4616),
+(100: priority = 46, executed_time = 4616)]
+Running tasks for 3428954 ms...
+Running tasks for 2724308 ms...
+Task 64 is finished (executed_time = 2958).
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Task created successfully : ID 9.
+Task created successfully : ID 10.
+Task created successfully : ID 11.
+Task created successfully : ID 12.
+Task created successfully : ID 13.
+Task created successfully : ID 14.
+Task created successfully : ID 15.
+Task created successfully : ID 16.
+Task created successfully : ID 17.
+Task created successfully : ID 18.
+Task created successfully : ID 19.
+Task created successfully : ID 20.
+Task created successfully : ID 21.
+Task created successfully : ID 22.
+Task created successfully : ID 23.
+Task created successfully : ID 24.
+Task created successfully : ID 25.
+Task created successfully : ID 26.
+Task created successfully : ID 27.
+Task created successfully : ID 28.
+Task created successfully : ID 29.
+Task created successfully : ID 30.
+Task created successfully : ID 31.
+Task created successfully : ID 32.
+Task created successfully : ID 33.
+Task created successfully : ID 34.
+Task created successfully : ID 35.
+Task created successfully : ID 36.
+Task created successfully : ID 37.
+Task created successfully : ID 38.
+Task created successfully : ID 39.
+Task created successfully : ID 40.
+Task created successfully : ID 41.
+Task created successfully : ID 42.
+Task created successfully : ID 43.
+Task created successfully : ID 44.
+Task created successfully : ID 45.
+Task created successfully : ID 46.
+Task created successfully : ID 47.
+Task created successfully : ID 48.
+Task created successfully : ID 49.
+Task 3900 not found.
+Thread 15 is idle.
+====== Running in parallel =======
+[]
+====== Finished queue =======
+[(1: priority = 3, executed_time = 6094),
+(2: priority = 3, executed_time = 6094),
+(3: priority = 3, executed_time = 6094),
+(4: priority = 3, executed_time = 6094),
+(5: priority = 3, executed_time = 6094),
+(6: priority = 3, executed_time = 6094),
+(7: priority = 3, executed_time = 6094),
+(8: priority = 3, executed_time = 6094),
+(9: priority = 3, executed_time = 6094),
+(10: priority = 3, executed_time = 6094),
+(11: priority = 3, executed_time = 6094),
+(12: priority = 3, executed_time = 6094),
+(13: priority = 3, executed_time = 6094),
+(14: priority = 3, executed_time = 6094),
+(15: priority = 3, executed_time = 6094),
+(16: priority = 3, executed_time = 6094),
+(17: priority = 3, executed_time = 6094),
+(18: priority = 3, executed_time = 6094),
+(19: priority = 3, executed_time = 6094),
+(20: priority = 3, executed_time = 6094),
+(21: priority = 3, executed_time = 6094),
+(22: priority = 3, executed_time = 6094),
+(23: priority = 3, executed_time = 6094),
+(24: priority = 3, executed_time = 6094),
+(25: priority = 3, executed_time = 6094),
+(26: priority = 3, executed_time = 6094),
+(27: priority = 3, executed_time = 6094),
+(28: priority = 3, executed_time = 6094),
+(29: priority = 3, executed_time = 6094),
+(30: priority = 3, executed_time = 6094),
+(22: priority = 123, executed_time = 2153),
+(23: priority = 123, executed_time = 2153),
+(24: priority = 123, executed_time = 2153),
+(25: priority = 123, executed_time = 2153),
+(26: priority = 123, executed_time = 2153),
+(27: priority = 123, executed_time = 2153),
+(28: priority = 123, executed_time = 2153),
+(29: priority = 123, executed_time = 2153),
+(30: priority = 123, executed_time = 2153),
+(31: priority = 74, executed_time = 2958),
+(32: priority = 74, executed_time = 2958),
+(33: priority = 74, executed_time = 2958),
+(34: priority = 74, executed_time = 2958),
+(35: priority = 74, executed_time = 2958),
+(36: priority = 74, executed_time = 2958),
+(37: priority = 74, executed_time = 2958),
+(38: priority = 74, executed_time = 2958),
+(39: priority = 74, executed_time = 2958),
+(40: priority = 74, executed_time = 2958),
+(41: priority = 74, executed_time = 2958),
+(42: priority = 74, executed_time = 2958),
+(43: priority = 74, executed_time = 2958),
+(44: priority = 74, executed_time = 2958),
+(45: priority = 74, executed_time = 2958),
+(46: priority = 74, executed_time = 2958),
+(47: priority = 74, executed_time = 2958),
+(48: priority = 74, executed_time = 2958),
+(49: priority = 74, executed_time = 2958),
+(50: priority = 74, executed_time = 2958),
+(51: priority = 74, executed_time = 2958),
+(52: priority = 74, executed_time = 2958),
+(53: priority = 74, executed_time = 2958),
+(54: priority = 74, executed_time = 2958),
+(55: priority = 74, executed_time = 2958),
+(56: priority = 74, executed_time = 2958),
+(57: priority = 74, executed_time = 2958),
+(58: priority = 74, executed_time = 2958),
+(59: priority = 74, executed_time = 2958),
+(60: priority = 74, executed_time = 2958),
+(61: priority = 74, executed_time = 2958),
+(62: priority = 74, executed_time = 2958),
+(63: priority = 74, executed_time = 2958),
+(64: priority = 74, executed_time = 2958),
+(65: priority = 74, executed_time = 2958),
+(66: priority = 74, executed_time = 2958),
+(67: priority = 74, executed_time = 2958),
+(68: priority = 46, executed_time = 4616),
+(69: priority = 46, executed_time = 4616),
+(70: priority = 46, executed_time = 4616),
+(71: priority = 46, executed_time = 4616),
+(72: priority = 46, executed_time = 4616),
+(73: priority = 46, executed_time = 4616),
+(74: priority = 46, executed_time = 4616),
+(75: priority = 46, executed_time = 4616),
+(76: priority = 46, executed_time = 4616),
+(77: priority = 46, executed_time = 4616),
+(78: priority = 46, executed_time = 4616),
+(79: priority = 46, executed_time = 4616),
+(80: priority = 46, executed_time = 4616),
+(81: priority = 46, executed_time = 4616),
+(82: priority = 46, executed_time = 4616),
+(83: priority = 46, executed_time = 4616),
+(84: priority = 46, executed_time = 4616),
+(85: priority = 46, executed_time = 4616),
+(86: priority = 46, executed_time = 4616),
+(87: priority = 46, executed_time = 4616),
+(88: priority = 46, executed_time = 4616),
+(89: priority = 46, executed_time = 4616),
+(90: priority = 46, executed_time = 4616),
+(91: priority = 46, executed_time = 4616),
+(92: priority = 46, executed_time = 4616),
+(93: priority = 46, executed_time = 4616),
+(94: priority = 46, executed_time = 4616),
+(95: priority = 46, executed_time = 4616),
+(1: priority = 108, executed_time = 9738),
+(2: priority = 108, executed_time = 9738),
+(3: priority = 108, executed_time = 9738),
+(4: priority = 108, executed_time = 9738),
+(5: priority = 108, executed_time = 9738),
+(6: priority = 108, executed_time = 9738),
+(7: priority = 108, executed_time = 9738),
+(8: priority = 108, executed_time = 9738),
+(9: priority = 108, executed_time = 9738),
+(10: priority = 108, executed_time = 9738),
+(11: priority = 108, executed_time = 9738),
+(12: priority = 108, executed_time = 9738),
+(13: priority = 108, executed_time = 9738),
+(14: priority = 108, executed_time = 9738),
+(15: priority = 108, executed_time = 9738),
+(16: priority = 108, executed_time = 9738),
+(17: priority = 108, executed_time = 9738),
+(18: priority = 108, executed_time = 9738),
+(19: priority = 108, executed_time = 9738),
+(20: priority = 108, executed_time = 9738),
+(21: priority = 108, executed_time = 9738),
+(96: priority = 46, executed_time = 4616),
+(97: priority = 46, executed_time = 4616),
+(98: priority = 46, executed_time = 4616),
+(99: priority = 46, executed_time = 4616),
+(100: priority = 46, executed_time = 4616)]
+====== Finished queue =======
+[(1: priority = 3, executed_time = 6094),
+(2: priority = 3, executed_time = 6094),
+(3: priority = 3, executed_time = 6094),
+(4: priority = 3, executed_time = 6094),
+(5: priority = 3, executed_time = 6094),
+(6: priority = 3, executed_time = 6094),
+(7: priority = 3, executed_time = 6094),
+(8: priority = 3, executed_time = 6094),
+(9: priority = 3, executed_time = 6094),
+(10: priority = 3, executed_time = 6094),
+(11: priority = 3, executed_time = 6094),
+(12: priority = 3, executed_time = 6094),
+(13: priority = 3, executed_time = 6094),
+(14: priority = 3, executed_time = 6094),
+(15: priority = 3, executed_time = 6094),
+(16: priority = 3, executed_time = 6094),
+(17: priority = 3, executed_time = 6094),
+(18: priority = 3, executed_time = 6094),
+(19: priority = 3, executed_time = 6094),
+(20: priority = 3, executed_time = 6094),
+(21: priority = 3, executed_time = 6094),
+(22: priority = 3, executed_time = 6094),
+(23: priority = 3, executed_time = 6094),
+(24: priority = 3, executed_time = 6094),
+(25: priority = 3, executed_time = 6094),
+(26: priority = 3, executed_time = 6094),
+(27: priority = 3, executed_time = 6094),
+(28: priority = 3, executed_time = 6094),
+(29: priority = 3, executed_time = 6094),
+(30: priority = 3, executed_time = 6094),
+(22: priority = 123, executed_time = 2153),
+(23: priority = 123, executed_time = 2153),
+(24: priority = 123, executed_time = 2153),
+(25: priority = 123, executed_time = 2153),
+(26: priority = 123, executed_time = 2153),
+(27: priority = 123, executed_time = 2153),
+(28: priority = 123, executed_time = 2153),
+(29: priority = 123, executed_time = 2153),
+(30: priority = 123, executed_time = 2153),
+(31: priority = 74, executed_time = 2958),
+(32: priority = 74, executed_time = 2958),
+(33: priority = 74, executed_time = 2958),
+(34: priority = 74, executed_time = 2958),
+(35: priority = 74, executed_time = 2958),
+(36: priority = 74, executed_time = 2958),
+(37: priority = 74, executed_time = 2958),
+(38: priority = 74, executed_time = 2958),
+(39: priority = 74, executed_time = 2958),
+(40: priority = 74, executed_time = 2958),
+(41: priority = 74, executed_time = 2958),
+(42: priority = 74, executed_time = 2958),
+(43: priority = 74, executed_time = 2958),
+(44: priority = 74, executed_time = 2958),
+(45: priority = 74, executed_time = 2958),
+(46: priority = 74, executed_time = 2958),
+(47: priority = 74, executed_time = 2958),
+(48: priority = 74, executed_time = 2958),
+(49: priority = 74, executed_time = 2958),
+(50: priority = 74, executed_time = 2958),
+(51: priority = 74, executed_time = 2958),
+(52: priority = 74, executed_time = 2958),
+(53: priority = 74, executed_time = 2958),
+(54: priority = 74, executed_time = 2958),
+(55: priority = 74, executed_time = 2958),
+(56: priority = 74, executed_time = 2958),
+(57: priority = 74, executed_time = 2958),
+(58: priority = 74, executed_time = 2958),
+(59: priority = 74, executed_time = 2958),
+(60: priority = 74, executed_time = 2958),
+(61: priority = 74, executed_time = 2958),
+(62: priority = 74, executed_time = 2958),
+(63: priority = 74, executed_time = 2958),
+(64: priority = 74, executed_time = 2958),
+(65: priority = 74, executed_time = 2958),
+(66: priority = 74, executed_time = 2958),
+(67: priority = 74, executed_time = 2958),
+(68: priority = 46, executed_time = 4616),
+(69: priority = 46, executed_time = 4616),
+(70: priority = 46, executed_time = 4616),
+(71: priority = 46, executed_time = 4616),
+(72: priority = 46, executed_time = 4616),
+(73: priority = 46, executed_time = 4616),
+(74: priority = 46, executed_time = 4616),
+(75: priority = 46, executed_time = 4616),
+(76: priority = 46, executed_time = 4616),
+(77: priority = 46, executed_time = 4616),
+(78: priority = 46, executed_time = 4616),
+(79: priority = 46, executed_time = 4616),
+(80: priority = 46, executed_time = 4616),
+(81: priority = 46, executed_time = 4616),
+(82: priority = 46, executed_time = 4616),
+(83: priority = 46, executed_time = 4616),
+(84: priority = 46, executed_time = 4616),
+(85: priority = 46, executed_time = 4616),
+(86: priority = 46, executed_time = 4616),
+(87: priority = 46, executed_time = 4616),
+(88: priority = 46, executed_time = 4616),
+(89: priority = 46, executed_time = 4616),
+(90: priority = 46, executed_time = 4616),
+(91: priority = 46, executed_time = 4616),
+(92: priority = 46, executed_time = 4616),
+(93: priority = 46, executed_time = 4616),
+(94: priority = 46, executed_time = 4616),
+(95: priority = 46, executed_time = 4616),
+(1: priority = 108, executed_time = 9738),
+(2: priority = 108, executed_time = 9738),
+(3: priority = 108, executed_time = 9738),
+(4: priority = 108, executed_time = 9738),
+(5: priority = 108, executed_time = 9738),
+(6: priority = 108, executed_time = 9738),
+(7: priority = 108, executed_time = 9738),
+(8: priority = 108, executed_time = 9738),
+(9: priority = 108, executed_time = 9738),
+(10: priority = 108, executed_time = 9738),
+(11: priority = 108, executed_time = 9738),
+(12: priority = 108, executed_time = 9738),
+(13: priority = 108, executed_time = 9738),
+(14: priority = 108, executed_time = 9738),
+(15: priority = 108, executed_time = 9738),
+(16: priority = 108, executed_time = 9738),
+(17: priority = 108, executed_time = 9738),
+(18: priority = 108, executed_time = 9738),
+(19: priority = 108, executed_time = 9738),
+(20: priority = 108, executed_time = 9738),
+(21: priority = 108, executed_time = 9738),
+(96: priority = 46, executed_time = 4616),
+(97: priority = 46, executed_time = 4616),
+(98: priority = 46, executed_time = 4616),
+(99: priority = 46, executed_time = 4616),
+(100: priority = 46, executed_time = 4616)]
+Task 164 not found.
+Task created successfully : ID 50.
+Task created successfully : ID 51.
+Task created successfully : ID 52.
+Task created successfully : ID 53.
+Task created successfully : ID 54.
+Task created successfully : ID 55.
+Task created successfully : ID 56.
+Task created successfully : ID 57.
+Task created successfully : ID 58.
+Task created successfully : ID 59.
+Task created successfully : ID 60.
+Task created successfully : ID 61.
+Task created successfully : ID 62.
+Task created successfully : ID 63.
+Task created successfully : ID 64.
+Task created successfully : ID 65.
+Task created successfully : ID 66.
+Task created successfully : ID 67.
+Task created successfully : ID 68.
+Task created successfully : ID 69.
+Task created successfully : ID 70.
+Task created successfully : ID 71.
+Task created successfully : ID 72.
+Task created successfully : ID 73.
+Task created successfully : ID 74.
+Task created successfully : ID 75.
+Task created successfully : ID 76.
+Task created successfully : ID 77.
+Task created successfully : ID 78.
+Task created successfully : ID 79.
+Task created successfully : ID 80.
+Task created successfully : ID 81.
+Task created successfully : ID 82.
+Task created successfully : ID 83.
+Task created successfully : ID 84.
+Task created successfully : ID 85.
+Task created successfully : ID 86.
+Task created successfully : ID 87.
+Task created successfully : ID 88.
+Thread 2 is idle.
+Task created successfully : ID 89.
+Task created successfully : ID 90.
+Task created successfully : ID 91.
+Task created successfully : ID 92.
+Task created successfully : ID 93.
+Task created successfully : ID 94.
+Task created successfully : ID 95.
+Task created successfully : ID 96.
+Task created successfully : ID 97.
+Task created successfully : ID 98.
+Task created successfully : ID 99.
+Task created successfully : ID 100.
+Task created successfully : ID 101.
+Task created successfully : ID 102.
+Task created successfully : ID 103.
+Task created successfully : ID 104.
+Task created successfully : ID 105.
+Task created successfully : ID 106.
+Task created successfully : ID 107.
+Task created successfully : ID 108.
+Task created successfully : ID 109.
+Task created successfully : ID 110.
+Task created successfully : ID 111.
+Task created successfully : ID 112.
+Task created successfully : ID 113.
+Task created successfully : ID 114.
+Task created successfully : ID 115.
+Task created successfully : ID 116.
+Task created successfully : ID 117.
+Task created successfully : ID 118.
+Task created successfully : ID 119.
+Task created successfully : ID 120.
+Task created successfully : ID 121.
+Task created successfully : ID 122.
+Task created successfully : ID 123.
+Task created successfully : ID 124.
+Task created successfully : ID 125.
+Task created successfully : ID 126.
+Task created successfully : ID 127.
+Task created successfully : ID 128.
+Task created successfully : ID 129.
+Task created successfully : ID 130.
+Task created successfully : ID 131.
+Task created successfully : ID 132.
+Task created successfully : ID 133.
+Task created successfully : ID 134.
+Task created successfully : ID 135.
+Task created successfully : ID 136.
+Task created successfully : ID 137.
+Task created successfully : ID 138.
+Task created successfully : ID 139.
+Task created successfully : ID 140.
+Task created successfully : ID 141.
+Task created successfully : ID 142.
+Task created successfully : ID 143.
+Task created successfully : ID 144.
+Task created successfully : ID 145.
+Task created successfully : ID 146.
+Task created successfully : ID 147.
+Task created successfully : ID 148.
+Task created successfully : ID 149.
+Task created successfully : ID 150.
+Task created successfully : ID 151.
+Task created successfully : ID 152.
+Task created successfully : ID 153.
+Task created successfully : ID 154.
+Task created successfully : ID 155.
+Task created successfully : ID 156.
+Task created successfully : ID 157.
+Task created successfully : ID 158.
+Task created successfully : ID 159.
+Task created successfully : ID 160.
+Task created successfully : ID 161.
+Task created successfully : ID 162.
+Task created successfully : ID 163.
+Task created successfully : ID 164.
+Task created successfully : ID 165.
+Task created successfully : ID 166.
+Task created successfully : ID 167.
+Task created successfully : ID 168.
+Task created successfully : ID 169.
+Task created successfully : ID 170.
+Task created successfully : ID 171.
+Task created successfully : ID 172.
+Task created successfully : ID 173.
+Task created successfully : ID 174.
+Task created successfully : ID 175.
+Task created successfully : ID 176.
+Task created successfully : ID 177.
+Task created successfully : ID 178.
+Task created successfully : ID 179.
+Task created successfully : ID 180.
+Task created successfully : ID 181.
+Task created successfully : ID 182.
+Task created successfully : ID 183.
+Task created successfully : ID 184.
+====== Running in parallel =======
+[]
+Task 304 not found.
+Running tasks for 3967849 ms...
+Thread 6 is idle.
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Task created successfully : ID 9.
+Task created successfully : ID 10.
+Task created successfully : ID 11.
+Task created successfully : ID 12.
+Task created successfully : ID 13.
+Task created successfully : ID 14.
+Task created successfully : ID 15.
+Task created successfully : ID 16.
+Task created successfully : ID 17.
+Task created successfully : ID 18.
+Task created successfully : ID 19.
+Task created successfully : ID 20.
+Task created successfully : ID 21.
+Task created successfully : ID 22.
+Task created successfully : ID 23.
+Task created successfully : ID 24.
+Task created successfully : ID 25.
+Task created successfully : ID 26.
+Task created successfully : ID 27.
+Task created successfully : ID 28.
+Task created successfully : ID 29.
+Task created successfully : ID 30.
+Task created successfully : ID 31.
+Task created successfully : ID 32.
+Task created successfully : ID 33.
+Task created successfully : ID 34.
+Task created successfully : ID 35.
+Task created successfully : ID 36.
+Task created successfully : ID 37.
+Task created successfully : ID 38.
+Task created successfully : ID 39.
+Task created successfully : ID 40.
+Task created successfully : ID 41.
+Task created successfully : ID 42.
+Task created successfully : ID 43.
+Task created successfully : ID 44.
+Task created successfully : ID 45.
+Task 270 not found.
+====== Finished queue =======
+[(1: priority = 3, executed_time = 6094),
+(2: priority = 3, executed_time = 6094),
+(3: priority = 3, executed_time = 6094),
+(4: priority = 3, executed_time = 6094),
+(5: priority = 3, executed_time = 6094),
+(6: priority = 3, executed_time = 6094),
+(7: priority = 3, executed_time = 6094),
+(8: priority = 3, executed_time = 6094),
+(9: priority = 3, executed_time = 6094),
+(10: priority = 3, executed_time = 6094),
+(11: priority = 3, executed_time = 6094),
+(12: priority = 3, executed_time = 6094),
+(13: priority = 3, executed_time = 6094),
+(14: priority = 3, executed_time = 6094),
+(15: priority = 3, executed_time = 6094),
+(16: priority = 3, executed_time = 6094),
+(17: priority = 3, executed_time = 6094),
+(18: priority = 3, executed_time = 6094),
+(19: priority = 3, executed_time = 6094),
+(20: priority = 3, executed_time = 6094),
+(21: priority = 3, executed_time = 6094),
+(22: priority = 3, executed_time = 6094),
+(23: priority = 3, executed_time = 6094),
+(24: priority = 3, executed_time = 6094),
+(25: priority = 3, executed_time = 6094),
+(26: priority = 3, executed_time = 6094),
+(27: priority = 3, executed_time = 6094),
+(28: priority = 3, executed_time = 6094),
+(29: priority = 3, executed_time = 6094),
+(30: priority = 3, executed_time = 6094),
+(22: priority = 123, executed_time = 2153),
+(23: priority = 123, executed_time = 2153),
+(24: priority = 123, executed_time = 2153),
+(25: priority = 123, executed_time = 2153),
+(26: priority = 123, executed_time = 2153),
+(27: priority = 123, executed_time = 2153),
+(28: priority = 123, executed_time = 2153),
+(29: priority = 123, executed_time = 2153),
+(30: priority = 123, executed_time = 2153),
+(31: priority = 74, executed_time = 2958),
+(32: priority = 74, executed_time = 2958),
+(33: priority = 74, executed_time = 2958),
+(34: priority = 74, executed_time = 2958),
+(35: priority = 74, executed_time = 2958),
+(36: priority = 74, executed_time = 2958),
+(37: priority = 74, executed_time = 2958),
+(38: priority = 74, executed_time = 2958),
+(39: priority = 74, executed_time = 2958),
+(40: priority = 74, executed_time = 2958),
+(41: priority = 74, executed_time = 2958),
+(42: priority = 74, executed_time = 2958),
+(43: priority = 74, executed_time = 2958),
+(44: priority = 74, executed_time = 2958),
+(45: priority = 74, executed_time = 2958),
+(46: priority = 74, executed_time = 2958),
+(47: priority = 74, executed_time = 2958),
+(48: priority = 74, executed_time = 2958),
+(49: priority = 74, executed_time = 2958),
+(50: priority = 74, executed_time = 2958),
+(51: priority = 74, executed_time = 2958),
+(52: priority = 74, executed_time = 2958),
+(53: priority = 74, executed_time = 2958),
+(54: priority = 74, executed_time = 2958),
+(55: priority = 74, executed_time = 2958),
+(56: priority = 74, executed_time = 2958),
+(57: priority = 74, executed_time = 2958),
+(58: priority = 74, executed_time = 2958),
+(59: priority = 74, executed_time = 2958),
+(60: priority = 74, executed_time = 2958),
+(61: priority = 74, executed_time = 2958),
+(62: priority = 74, executed_time = 2958),
+(63: priority = 74, executed_time = 2958),
+(64: priority = 74, executed_time = 2958),
+(65: priority = 74, executed_time = 2958),
+(66: priority = 74, executed_time = 2958),
+(67: priority = 74, executed_time = 2958),
+(68: priority = 46, executed_time = 4616),
+(69: priority = 46, executed_time = 4616),
+(70: priority = 46, executed_time = 4616),
+(71: priority = 46, executed_time = 4616),
+(72: priority = 46, executed_time = 4616),
+(73: priority = 46, executed_time = 4616),
+(74: priority = 46, executed_time = 4616),
+(75: priority = 46, executed_time = 4616),
+(76: priority = 46, executed_time = 4616),
+(77: priority = 46, executed_time = 4616),
+(78: priority = 46, executed_time = 4616),
+(79: priority = 46, executed_time = 4616),
+(80: priority = 46, executed_time = 4616),
+(81: priority = 46, executed_time = 4616),
+(82: priority = 46, executed_time = 4616),
+(83: priority = 46, executed_time = 4616),
+(84: priority = 46, executed_time = 4616),
+(85: priority = 46, executed_time = 4616),
+(86: priority = 46, executed_time = 4616),
+(87: priority = 46, executed_time = 4616),
+(88: priority = 46, executed_time = 4616),
+(89: priority = 46, executed_time = 4616),
+(90: priority = 46, executed_time = 4616),
+(91: priority = 46, executed_time = 4616),
+(92: priority = 46, executed_time = 4616),
+(93: priority = 46, executed_time = 4616),
+(94: priority = 46, executed_time = 4616),
+(95: priority = 46, executed_time = 4616),
+(1: priority = 108, executed_time = 9738),
+(2: priority = 108, executed_time = 9738),
+(3: priority = 108, executed_time = 9738),
+(4: priority = 108, executed_time = 9738),
+(5: priority = 108, executed_time = 9738),
+(6: priority = 108, executed_time = 9738),
+(7: priority = 108, executed_time = 9738),
+(8: priority = 108, executed_time = 9738),
+(9: priority = 108, executed_time = 9738),
+(10: priority = 108, executed_time = 9738),
+(11: priority = 108, executed_time = 9738),
+(12: priority = 108, executed_time = 9738),
+(13: priority = 108, executed_time = 9738),
+(14: priority = 108, executed_time = 9738),
+(15: priority = 108, executed_time = 9738),
+(16: priority = 108, executed_time = 9738),
+(17: priority = 108, executed_time = 9738),
+(18: priority = 108, executed_time = 9738),
+(19: priority = 108, executed_time = 9738),
+(20: priority = 108, executed_time = 9738),
+(21: priority = 108, executed_time = 9738),
+(96: priority = 46, executed_time = 4616),
+(97: priority = 46, executed_time = 4616),
+(98: priority = 46, executed_time = 4616),
+(99: priority = 46, executed_time = 4616),
+(100: priority = 46, executed_time = 4616),
+(100: priority = 69, executed_time = 1862),
+(101: priority = 69, executed_time = 1862),
+(102: priority = 69, executed_time = 1862),
+(103: priority = 69, executed_time = 1862),
+(104: priority = 69, executed_time = 1862),
+(105: priority = 69, executed_time = 1862),
+(106: priority = 69, executed_time = 1862),
+(107: priority = 69, executed_time = 1862),
+(108: priority = 69, executed_time = 1862),
+(109: priority = 69, executed_time = 1862),
+(110: priority = 69, executed_time = 1862),
+(111: priority = 69, executed_time = 1862),
+(112: priority = 69, executed_time = 1862),
+(113: priority = 69, executed_time = 1862),
+(114: priority = 69, executed_time = 1862),
+(115: priority = 69, executed_time = 1862),
+(116: priority = 69, executed_time = 1862),
+(117: priority = 69, executed_time = 1862),
+(118: priority = 69, executed_time = 1862),
+(119: priority = 69, executed_time = 1862),
+(120: priority = 69, executed_time = 1862),
+(121: priority = 69, executed_time = 1862),
+(122: priority = 69, executed_time = 1862),
+(123: priority = 69, executed_time = 1862),
+(124: priority = 69, executed_time = 1862),
+(125: priority = 69, executed_time = 1862),
+(126: priority = 69, executed_time = 1862),
+(127: priority = 69, executed_time = 1862),
+(128: priority = 69, executed_time = 1862),
+(129: priority = 69, executed_time = 1862),
+(130: priority = 69, executed_time = 1862),
+(131: priority = 69, executed_time = 1862),
+(132: priority = 69, executed_time = 1862),
+(133: priority = 69, executed_time = 1862),
+(134: priority = 69, executed_time = 1862),
+(135: priority = 69, executed_time = 1862),
+(136: priority = 69, executed_time = 1862),
+(137: priority = 69, executed_time = 1862),
+(138: priority = 69, executed_time = 1862),
+(139: priority = 69, executed_time = 1862),
+(140: priority = 69, executed_time = 1862),
+(141: priority = 69, executed_time = 1862),
+(142: priority = 69, executed_time = 1862),
+(143: priority = 69, executed_time = 1862),
+(144: priority = 69, executed_time = 1862),
+(145: priority = 69, executed_time = 1862),
+(146: priority = 78, executed_time = 8999),
+(147: priority = 78, executed_time = 8999),
+(148: priority = 78, executed_time = 8999),
+(149: priority = 78, executed_time = 8999),
+(150: priority = 78, executed_time = 8999),
+(151: priority = 78, executed_time = 8999),
+(152: priority = 78, executed_time = 8999),
+(153: priority = 78, executed_time = 8999),
+(154: priority = 78, executed_time = 8999),
+(155: priority = 78, executed_time = 8999),
+(156: priority = 78, executed_time = 8999),
+(157: priority = 78, executed_time = 8999),
+(158: priority = 78, executed_time = 8999),
+(159: priority = 78, executed_time = 8999),
+(160: priority = 78, executed_time = 8999),
+(161: priority = 78, executed_time = 8999),
+(162: priority = 78, executed_time = 8999),
+(163: priority = 78, executed_time = 8999),
+(164: priority = 78, executed_time = 8999),
+(165: priority = 78, executed_time = 8999),
+(166: priority = 78, executed_time = 8999),
+(167: priority = 78, executed_time = 8999),
+(168: priority = 78, executed_time = 8999),
+(169: priority = 78, executed_time = 8999),
+(170: priority = 78, executed_time = 8999),
+(171: priority = 78, executed_time = 8999),
+(172: priority = 78, executed_time = 8999),
+(173: priority = 78, executed_time = 8999),
+(174: priority = 78, executed_time = 8999),
+(175: priority = 78, executed_time = 8999),
+(176: priority = 78, executed_time = 8999),
+(177: priority = 78, executed_time = 8999),
+(178: priority = 78, executed_time = 8999),
+(179: priority = 78, executed_time = 8999),
+(180: priority = 78, executed_time = 8999),
+(181: priority = 78, executed_time = 8999),
+(182: priority = 78, executed_time = 8999),
+(183: priority = 78, executed_time = 8999),
+(184: priority = 78, executed_time = 8999),
+(1: priority = 66, executed_time = 8714),
+(2: priority = 66, executed_time = 8714),
+(3: priority = 66, executed_time = 8714),
+(4: priority = 66, executed_time = 8714),
+(5: priority = 66, executed_time = 8714),
+(6: priority = 66, executed_time = 8714),
+(7: priority = 66, executed_time = 8714),
+(8: priority = 66, executed_time = 8714),
+(9: priority = 66, executed_time = 8714),
+(10: priority = 66, executed_time = 8714),
+(11: priority = 66, executed_time = 8714),
+(12: priority = 66, executed_time = 8714),
+(13: priority = 66, executed_time = 8714),
+(14: priority = 66, executed_time = 8714),
+(15: priority = 66, executed_time = 8714),
+(16: priority = 66, executed_time = 8714),
+(17: priority = 66, executed_time = 8714),
+(18: priority = 66, executed_time = 8714),
+(19: priority = 66, executed_time = 8714),
+(50: priority = 25, executed_time = 3523),
+(51: priority = 25, executed_time = 3523),
+(52: priority = 25, executed_time = 3523),
+(53: priority = 25, executed_time = 3523),
+(54: priority = 25, executed_time = 3523),
+(55: priority = 25, executed_time = 3523),
+(56: priority = 25, executed_time = 3523),
+(57: priority = 25, executed_time = 3523),
+(58: priority = 25, executed_time = 3523),
+(89: priority = 31, executed_time = 8230),
+(90: priority = 31, executed_time = 8230),
+(91: priority = 31, executed_time = 8230),
+(92: priority = 31, executed_time = 8230),
+(93: priority = 31, executed_time = 8230),
+(94: priority = 31, executed_time = 8230),
+(95: priority = 31, executed_time = 8230),
+(96: priority = 31, executed_time = 8230),
+(97: priority = 31, executed_time = 8230),
+(20: priority = 66, executed_time = 8714),
+(21: priority = 66, executed_time = 8714),
+(22: priority = 66, executed_time = 8714),
+(23: priority = 66, executed_time = 8714),
+(24: priority = 66, executed_time = 8714),
+(25: priority = 66, executed_time = 8714),
+(26: priority = 66, executed_time = 8714),
+(27: priority = 66, executed_time = 8714),
+(28: priority = 66, executed_time = 8714),
+(29: priority = 66, executed_time = 8714),
+(30: priority = 66, executed_time = 8714),
+(31: priority = 66, executed_time = 8714),
+(32: priority = 66, executed_time = 8714),
+(33: priority = 66, executed_time = 8714),
+(34: priority = 66, executed_time = 8714),
+(35: priority = 66, executed_time = 8714),
+(36: priority = 66, executed_time = 8714),
+(37: priority = 66, executed_time = 8714),
+(38: priority = 66, executed_time = 8714),
+(39: priority = 66, executed_time = 8714),
+(40: priority = 66, executed_time = 8714),
+(41: priority = 66, executed_time = 8714),
+(42: priority = 66, executed_time = 8714),
+(43: priority = 66, executed_time = 8714),
+(44: priority = 66, executed_time = 8714),
+(45: priority = 66, executed_time = 8714),
+(46: priority = 66, executed_time = 8714),
+(47: priority = 66, executed_time = 8714),
+(48: priority = 66, executed_time = 8714),
+(49: priority = 66, executed_time = 8714),
+(59: priority = 25, executed_time = 3523),
+(60: priority = 25, executed_time = 3523),
+(61: priority = 25, executed_time = 3523),
+(62: priority = 25, executed_time = 3523),
+(63: priority = 25, executed_time = 3523),
+(64: priority = 25, executed_time = 3523),
+(65: priority = 25, executed_time = 3523),
+(66: priority = 25, executed_time = 3523),
+(67: priority = 25, executed_time = 3523),
+(68: priority = 25, executed_time = 3523),
+(69: priority = 25, executed_time = 3523),
+(70: priority = 25, executed_time = 3523),
+(71: priority = 25, executed_time = 3523),
+(72: priority = 25, executed_time = 3523),
+(73: priority = 25, executed_time = 3523),
+(74: priority = 25, executed_time = 3523),
+(75: priority = 25, executed_time = 3523),
+(98: priority = 31, executed_time = 8230),
+(99: priority = 31, executed_time = 8230),
+(76: priority = 25, executed_time = 3523),
+(77: priority = 25, executed_time = 3523),
+(78: priority = 25, executed_time = 3523),
+(79: priority = 25, executed_time = 3523),
+(80: priority = 25, executed_time = 3523),
+(81: priority = 25, executed_time = 3523),
+(82: priority = 25, executed_time = 3523),
+(83: priority = 25, executed_time = 3523),
+(84: priority = 25, executed_time = 3523),
+(85: priority = 25, executed_time = 3523),
+(86: priority = 25, executed_time = 3523),
+(87: priority = 25, executed_time = 3523),
+(88: priority = 25, executed_time = 3523)]
+====== Finished queue =======
+[(1: priority = 3, executed_time = 6094),
+(2: priority = 3, executed_time = 6094),
+(3: priority = 3, executed_time = 6094),
+(4: priority = 3, executed_time = 6094),
+(5: priority = 3, executed_time = 6094),
+(6: priority = 3, executed_time = 6094),
+(7: priority = 3, executed_time = 6094),
+(8: priority = 3, executed_time = 6094),
+(9: priority = 3, executed_time = 6094),
+(10: priority = 3, executed_time = 6094),
+(11: priority = 3, executed_time = 6094),
+(12: priority = 3, executed_time = 6094),
+(13: priority = 3, executed_time = 6094),
+(14: priority = 3, executed_time = 6094),
+(15: priority = 3, executed_time = 6094),
+(16: priority = 3, executed_time = 6094),
+(17: priority = 3, executed_time = 6094),
+(18: priority = 3, executed_time = 6094),
+(19: priority = 3, executed_time = 6094),
+(20: priority = 3, executed_time = 6094),
+(21: priority = 3, executed_time = 6094),
+(22: priority = 3, executed_time = 6094),
+(23: priority = 3, executed_time = 6094),
+(24: priority = 3, executed_time = 6094),
+(25: priority = 3, executed_time = 6094),
+(26: priority = 3, executed_time = 6094),
+(27: priority = 3, executed_time = 6094),
+(28: priority = 3, executed_time = 6094),
+(29: priority = 3, executed_time = 6094),
+(30: priority = 3, executed_time = 6094),
+(22: priority = 123, executed_time = 2153),
+(23: priority = 123, executed_time = 2153),
+(24: priority = 123, executed_time = 2153),
+(25: priority = 123, executed_time = 2153),
+(26: priority = 123, executed_time = 2153),
+(27: priority = 123, executed_time = 2153),
+(28: priority = 123, executed_time = 2153),
+(29: priority = 123, executed_time = 2153),
+(30: priority = 123, executed_time = 2153),
+(31: priority = 74, executed_time = 2958),
+(32: priority = 74, executed_time = 2958),
+(33: priority = 74, executed_time = 2958),
+(34: priority = 74, executed_time = 2958),
+(35: priority = 74, executed_time = 2958),
+(36: priority = 74, executed_time = 2958),
+(37: priority = 74, executed_time = 2958),
+(38: priority = 74, executed_time = 2958),
+(39: priority = 74, executed_time = 2958),
+(40: priority = 74, executed_time = 2958),
+(41: priority = 74, executed_time = 2958),
+(42: priority = 74, executed_time = 2958),
+(43: priority = 74, executed_time = 2958),
+(44: priority = 74, executed_time = 2958),
+(45: priority = 74, executed_time = 2958),
+(46: priority = 74, executed_time = 2958),
+(47: priority = 74, executed_time = 2958),
+(48: priority = 74, executed_time = 2958),
+(49: priority = 74, executed_time = 2958),
+(50: priority = 74, executed_time = 2958),
+(51: priority = 74, executed_time = 2958),
+(52: priority = 74, executed_time = 2958),
+(53: priority = 74, executed_time = 2958),
+(54: priority = 74, executed_time = 2958),
+(55: priority = 74, executed_time = 2958),
+(56: priority = 74, executed_time = 2958),
+(57: priority = 74, executed_time = 2958),
+(58: priority = 74, executed_time = 2958),
+(59: priority = 74, executed_time = 2958),
+(60: priority = 74, executed_time = 2958),
+(61: priority = 74, executed_time = 2958),
+(62: priority = 74, executed_time = 2958),
+(63: priority = 74, executed_time = 2958),
+(64: priority = 74, executed_time = 2958),
+(65: priority = 74, executed_time = 2958),
+(66: priority = 74, executed_time = 2958),
+(67: priority = 74, executed_time = 2958),
+(68: priority = 46, executed_time = 4616),
+(69: priority = 46, executed_time = 4616),
+(70: priority = 46, executed_time = 4616),
+(71: priority = 46, executed_time = 4616),
+(72: priority = 46, executed_time = 4616),
+(73: priority = 46, executed_time = 4616),
+(74: priority = 46, executed_time = 4616),
+(75: priority = 46, executed_time = 4616),
+(76: priority = 46, executed_time = 4616),
+(77: priority = 46, executed_time = 4616),
+(78: priority = 46, executed_time = 4616),
+(79: priority = 46, executed_time = 4616),
+(80: priority = 46, executed_time = 4616),
+(81: priority = 46, executed_time = 4616),
+(82: priority = 46, executed_time = 4616),
+(83: priority = 46, executed_time = 4616),
+(84: priority = 46, executed_time = 4616),
+(85: priority = 46, executed_time = 4616),
+(86: priority = 46, executed_time = 4616),
+(87: priority = 46, executed_time = 4616),
+(88: priority = 46, executed_time = 4616),
+(89: priority = 46, executed_time = 4616),
+(90: priority = 46, executed_time = 4616),
+(91: priority = 46, executed_time = 4616),
+(92: priority = 46, executed_time = 4616),
+(93: priority = 46, executed_time = 4616),
+(94: priority = 46, executed_time = 4616),
+(95: priority = 46, executed_time = 4616),
+(1: priority = 108, executed_time = 9738),
+(2: priority = 108, executed_time = 9738),
+(3: priority = 108, executed_time = 9738),
+(4: priority = 108, executed_time = 9738),
+(5: priority = 108, executed_time = 9738),
+(6: priority = 108, executed_time = 9738),
+(7: priority = 108, executed_time = 9738),
+(8: priority = 108, executed_time = 9738),
+(9: priority = 108, executed_time = 9738),
+(10: priority = 108, executed_time = 9738),
+(11: priority = 108, executed_time = 9738),
+(12: priority = 108, executed_time = 9738),
+(13: priority = 108, executed_time = 9738),
+(14: priority = 108, executed_time = 9738),
+(15: priority = 108, executed_time = 9738),
+(16: priority = 108, executed_time = 9738),
+(17: priority = 108, executed_time = 9738),
+(18: priority = 108, executed_time = 9738),
+(19: priority = 108, executed_time = 9738),
+(20: priority = 108, executed_time = 9738),
+(21: priority = 108, executed_time = 9738),
+(96: priority = 46, executed_time = 4616),
+(97: priority = 46, executed_time = 4616),
+(98: priority = 46, executed_time = 4616),
+(99: priority = 46, executed_time = 4616),
+(100: priority = 46, executed_time = 4616),
+(100: priority = 69, executed_time = 1862),
+(101: priority = 69, executed_time = 1862),
+(102: priority = 69, executed_time = 1862),
+(103: priority = 69, executed_time = 1862),
+(104: priority = 69, executed_time = 1862),
+(105: priority = 69, executed_time = 1862),
+(106: priority = 69, executed_time = 1862),
+(107: priority = 69, executed_time = 1862),
+(108: priority = 69, executed_time = 1862),
+(109: priority = 69, executed_time = 1862),
+(110: priority = 69, executed_time = 1862),
+(111: priority = 69, executed_time = 1862),
+(112: priority = 69, executed_time = 1862),
+(113: priority = 69, executed_time = 1862),
+(114: priority = 69, executed_time = 1862),
+(115: priority = 69, executed_time = 1862),
+(116: priority = 69, executed_time = 1862),
+(117: priority = 69, executed_time = 1862),
+(118: priority = 69, executed_time = 1862),
+(119: priority = 69, executed_time = 1862),
+(120: priority = 69, executed_time = 1862),
+(121: priority = 69, executed_time = 1862),
+(122: priority = 69, executed_time = 1862),
+(123: priority = 69, executed_time = 1862),
+(124: priority = 69, executed_time = 1862),
+(125: priority = 69, executed_time = 1862),
+(126: priority = 69, executed_time = 1862),
+(127: priority = 69, executed_time = 1862),
+(128: priority = 69, executed_time = 1862),
+(129: priority = 69, executed_time = 1862),
+(130: priority = 69, executed_time = 1862),
+(131: priority = 69, executed_time = 1862),
+(132: priority = 69, executed_time = 1862),
+(133: priority = 69, executed_time = 1862),
+(134: priority = 69, executed_time = 1862),
+(135: priority = 69, executed_time = 1862),
+(136: priority = 69, executed_time = 1862),
+(137: priority = 69, executed_time = 1862),
+(138: priority = 69, executed_time = 1862),
+(139: priority = 69, executed_time = 1862),
+(140: priority = 69, executed_time = 1862),
+(141: priority = 69, executed_time = 1862),
+(142: priority = 69, executed_time = 1862),
+(143: priority = 69, executed_time = 1862),
+(144: priority = 69, executed_time = 1862),
+(145: priority = 69, executed_time = 1862),
+(146: priority = 78, executed_time = 8999),
+(147: priority = 78, executed_time = 8999),
+(148: priority = 78, executed_time = 8999),
+(149: priority = 78, executed_time = 8999),
+(150: priority = 78, executed_time = 8999),
+(151: priority = 78, executed_time = 8999),
+(152: priority = 78, executed_time = 8999),
+(153: priority = 78, executed_time = 8999),
+(154: priority = 78, executed_time = 8999),
+(155: priority = 78, executed_time = 8999),
+(156: priority = 78, executed_time = 8999),
+(157: priority = 78, executed_time = 8999),
+(158: priority = 78, executed_time = 8999),
+(159: priority = 78, executed_time = 8999),
+(160: priority = 78, executed_time = 8999),
+(161: priority = 78, executed_time = 8999),
+(162: priority = 78, executed_time = 8999),
+(163: priority = 78, executed_time = 8999),
+(164: priority = 78, executed_time = 8999),
+(165: priority = 78, executed_time = 8999),
+(166: priority = 78, executed_time = 8999),
+(167: priority = 78, executed_time = 8999),
+(168: priority = 78, executed_time = 8999),
+(169: priority = 78, executed_time = 8999),
+(170: priority = 78, executed_time = 8999),
+(171: priority = 78, executed_time = 8999),
+(172: priority = 78, executed_time = 8999),
+(173: priority = 78, executed_time = 8999),
+(174: priority = 78, executed_time = 8999),
+(175: priority = 78, executed_time = 8999),
+(176: priority = 78, executed_time = 8999),
+(177: priority = 78, executed_time = 8999),
+(178: priority = 78, executed_time = 8999),
+(179: priority = 78, executed_time = 8999),
+(180: priority = 78, executed_time = 8999),
+(181: priority = 78, executed_time = 8999),
+(182: priority = 78, executed_time = 8999),
+(183: priority = 78, executed_time = 8999),
+(184: priority = 78, executed_time = 8999),
+(1: priority = 66, executed_time = 8714),
+(2: priority = 66, executed_time = 8714),
+(3: priority = 66, executed_time = 8714),
+(4: priority = 66, executed_time = 8714),
+(5: priority = 66, executed_time = 8714),
+(6: priority = 66, executed_time = 8714),
+(7: priority = 66, executed_time = 8714),
+(8: priority = 66, executed_time = 8714),
+(9: priority = 66, executed_time = 8714),
+(10: priority = 66, executed_time = 8714),
+(11: priority = 66, executed_time = 8714),
+(12: priority = 66, executed_time = 8714),
+(13: priority = 66, executed_time = 8714),
+(14: priority = 66, executed_time = 8714),
+(15: priority = 66, executed_time = 8714),
+(16: priority = 66, executed_time = 8714),
+(17: priority = 66, executed_time = 8714),
+(18: priority = 66, executed_time = 8714),
+(19: priority = 66, executed_time = 8714),
+(50: priority = 25, executed_time = 3523),
+(51: priority = 25, executed_time = 3523),
+(52: priority = 25, executed_time = 3523),
+(53: priority = 25, executed_time = 3523),
+(54: priority = 25, executed_time = 3523),
+(55: priority = 25, executed_time = 3523),
+(56: priority = 25, executed_time = 3523),
+(57: priority = 25, executed_time = 3523),
+(58: priority = 25, executed_time = 3523),
+(89: priority = 31, executed_time = 8230),
+(90: priority = 31, executed_time = 8230),
+(91: priority = 31, executed_time = 8230),
+(92: priority = 31, executed_time = 8230),
+(93: priority = 31, executed_time = 8230),
+(94: priority = 31, executed_time = 8230),
+(95: priority = 31, executed_time = 8230),
+(96: priority = 31, executed_time = 8230),
+(97: priority = 31, executed_time = 8230),
+(20: priority = 66, executed_time = 8714),
+(21: priority = 66, executed_time = 8714),
+(22: priority = 66, executed_time = 8714),
+(23: priority = 66, executed_time = 8714),
+(24: priority = 66, executed_time = 8714),
+(25: priority = 66, executed_time = 8714),
+(26: priority = 66, executed_time = 8714),
+(27: priority = 66, executed_time = 8714),
+(28: priority = 66, executed_time = 8714),
+(29: priority = 66, executed_time = 8714),
+(30: priority = 66, executed_time = 8714),
+(31: priority = 66, executed_time = 8714),
+(32: priority = 66, executed_time = 8714),
+(33: priority = 66, executed_time = 8714),
+(34: priority = 66, executed_time = 8714),
+(35: priority = 66, executed_time = 8714),
+(36: priority = 66, executed_time = 8714),
+(37: priority = 66, executed_time = 8714),
+(38: priority = 66, executed_time = 8714),
+(39: priority = 66, executed_time = 8714),
+(40: priority = 66, executed_time = 8714),
+(41: priority = 66, executed_time = 8714),
+(42: priority = 66, executed_time = 8714),
+(43: priority = 66, executed_time = 8714),
+(44: priority = 66, executed_time = 8714),
+(45: priority = 66, executed_time = 8714),
+(46: priority = 66, executed_time = 8714),
+(47: priority = 66, executed_time = 8714),
+(48: priority = 66, executed_time = 8714),
+(49: priority = 66, executed_time = 8714),
+(59: priority = 25, executed_time = 3523),
+(60: priority = 25, executed_time = 3523),
+(61: priority = 25, executed_time = 3523),
+(62: priority = 25, executed_time = 3523),
+(63: priority = 25, executed_time = 3523),
+(64: priority = 25, executed_time = 3523),
+(65: priority = 25, executed_time = 3523),
+(66: priority = 25, executed_time = 3523),
+(67: priority = 25, executed_time = 3523),
+(68: priority = 25, executed_time = 3523),
+(69: priority = 25, executed_time = 3523),
+(70: priority = 25, executed_time = 3523),
+(71: priority = 25, executed_time = 3523),
+(72: priority = 25, executed_time = 3523),
+(73: priority = 25, executed_time = 3523),
+(74: priority = 25, executed_time = 3523),
+(75: priority = 25, executed_time = 3523),
+(98: priority = 31, executed_time = 8230),
+(99: priority = 31, executed_time = 8230),
+(76: priority = 25, executed_time = 3523),
+(77: priority = 25, executed_time = 3523),
+(78: priority = 25, executed_time = 3523),
+(79: priority = 25, executed_time = 3523),
+(80: priority = 25, executed_time = 3523),
+(81: priority = 25, executed_time = 3523),
+(82: priority = 25, executed_time = 3523),
+(83: priority = 25, executed_time = 3523),
+(84: priority = 25, executed_time = 3523),
+(85: priority = 25, executed_time = 3523),
+(86: priority = 25, executed_time = 3523),
+(87: priority = 25, executed_time = 3523),
+(88: priority = 25, executed_time = 3523)]
+Thread 1 is idle.
+Running tasks for 7034527 ms...
+Task 255 not found.
+Thread 31 is idle.
+Task 259 not found.
+Running tasks for 9814710 ms...
+Task 32260 not found.
+Running tasks for 3429952 ms...
+====== Waiting queue =======
+[]
+====== Running in parallel =======
+[]
+====== Waiting queue =======
+[]
+====== Waiting queue =======
+[]
+====== Waiting queue =======
+[]
+====== Running in parallel =======
+[]
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Task created successfully : ID 9.
+Task created successfully : ID 10.
+Task created successfully : ID 11.
+Task created successfully : ID 12.
+Task created successfully : ID 13.
+Task created successfully : ID 14.
+====== Finished queue =======
+[(1: priority = 3, executed_time = 6094),
+(2: priority = 3, executed_time = 6094),
+(3: priority = 3, executed_time = 6094),
+(4: priority = 3, executed_time = 6094),
+(5: priority = 3, executed_time = 6094),
+(6: priority = 3, executed_time = 6094),
+(7: priority = 3, executed_time = 6094),
+(8: priority = 3, executed_time = 6094),
+(9: priority = 3, executed_time = 6094),
+(10: priority = 3, executed_time = 6094),
+(11: priority = 3, executed_time = 6094),
+(12: priority = 3, executed_time = 6094),
+(13: priority = 3, executed_time = 6094),
+(14: priority = 3, executed_time = 6094),
+(15: priority = 3, executed_time = 6094),
+(16: priority = 3, executed_time = 6094),
+(17: priority = 3, executed_time = 6094),
+(18: priority = 3, executed_time = 6094),
+(19: priority = 3, executed_time = 6094),
+(20: priority = 3, executed_time = 6094),
+(21: priority = 3, executed_time = 6094),
+(22: priority = 3, executed_time = 6094),
+(23: priority = 3, executed_time = 6094),
+(24: priority = 3, executed_time = 6094),
+(25: priority = 3, executed_time = 6094),
+(26: priority = 3, executed_time = 6094),
+(27: priority = 3, executed_time = 6094),
+(28: priority = 3, executed_time = 6094),
+(29: priority = 3, executed_time = 6094),
+(30: priority = 3, executed_time = 6094),
+(22: priority = 123, executed_time = 2153),
+(23: priority = 123, executed_time = 2153),
+(24: priority = 123, executed_time = 2153),
+(25: priority = 123, executed_time = 2153),
+(26: priority = 123, executed_time = 2153),
+(27: priority = 123, executed_time = 2153),
+(28: priority = 123, executed_time = 2153),
+(29: priority = 123, executed_time = 2153),
+(30: priority = 123, executed_time = 2153),
+(31: priority = 74, executed_time = 2958),
+(32: priority = 74, executed_time = 2958),
+(33: priority = 74, executed_time = 2958),
+(34: priority = 74, executed_time = 2958),
+(35: priority = 74, executed_time = 2958),
+(36: priority = 74, executed_time = 2958),
+(37: priority = 74, executed_time = 2958),
+(38: priority = 74, executed_time = 2958),
+(39: priority = 74, executed_time = 2958),
+(40: priority = 74, executed_time = 2958),
+(41: priority = 74, executed_time = 2958),
+(42: priority = 74, executed_time = 2958),
+(43: priority = 74, executed_time = 2958),
+(44: priority = 74, executed_time = 2958),
+(45: priority = 74, executed_time = 2958),
+(46: priority = 74, executed_time = 2958),
+(47: priority = 74, executed_time = 2958),
+(48: priority = 74, executed_time = 2958),
+(49: priority = 74, executed_time = 2958),
+(50: priority = 74, executed_time = 2958),
+(51: priority = 74, executed_time = 2958),
+(52: priority = 74, executed_time = 2958),
+(53: priority = 74, executed_time = 2958),
+(54: priority = 74, executed_time = 2958),
+(55: priority = 74, executed_time = 2958),
+(56: priority = 74, executed_time = 2958),
+(57: priority = 74, executed_time = 2958),
+(58: priority = 74, executed_time = 2958),
+(59: priority = 74, executed_time = 2958),
+(60: priority = 74, executed_time = 2958),
+(61: priority = 74, executed_time = 2958),
+(62: priority = 74, executed_time = 2958),
+(63: priority = 74, executed_time = 2958),
+(64: priority = 74, executed_time = 2958),
+(65: priority = 74, executed_time = 2958),
+(66: priority = 74, executed_time = 2958),
+(67: priority = 74, executed_time = 2958),
+(68: priority = 46, executed_time = 4616),
+(69: priority = 46, executed_time = 4616),
+(70: priority = 46, executed_time = 4616),
+(71: priority = 46, executed_time = 4616),
+(72: priority = 46, executed_time = 4616),
+(73: priority = 46, executed_time = 4616),
+(74: priority = 46, executed_time = 4616),
+(75: priority = 46, executed_time = 4616),
+(76: priority = 46, executed_time = 4616),
+(77: priority = 46, executed_time = 4616),
+(78: priority = 46, executed_time = 4616),
+(79: priority = 46, executed_time = 4616),
+(80: priority = 46, executed_time = 4616),
+(81: priority = 46, executed_time = 4616),
+(82: priority = 46, executed_time = 4616),
+(83: priority = 46, executed_time = 4616),
+(84: priority = 46, executed_time = 4616),
+(85: priority = 46, executed_time = 4616),
+(86: priority = 46, executed_time = 4616),
+(87: priority = 46, executed_time = 4616),
+(88: priority = 46, executed_time = 4616),
+(89: priority = 46, executed_time = 4616),
+(90: priority = 46, executed_time = 4616),
+(91: priority = 46, executed_time = 4616),
+(92: priority = 46, executed_time = 4616),
+(93: priority = 46, executed_time = 4616),
+(94: priority = 46, executed_time = 4616),
+(95: priority = 46, executed_time = 4616),
+(1: priority = 108, executed_time = 9738),
+(2: priority = 108, executed_time = 9738),
+(3: priority = 108, executed_time = 9738),
+(4: priority = 108, executed_time = 9738),
+(5: priority = 108, executed_time = 9738),
+(6: priority = 108, executed_time = 9738),
+(7: priority = 108, executed_time = 9738),
+(8: priority = 108, executed_time = 9738),
+(9: priority = 108, executed_time = 9738),
+(10: priority = 108, executed_time = 9738),
+(11: priority = 108, executed_time = 9738),
+(12: priority = 108, executed_time = 9738),
+(13: priority = 108, executed_time = 9738),
+(14: priority = 108, executed_time = 9738),
+(15: priority = 108, executed_time = 9738),
+(16: priority = 108, executed_time = 9738),
+(17: priority = 108, executed_time = 9738),
+(18: priority = 108, executed_time = 9738),
+(19: priority = 108, executed_time = 9738),
+(20: priority = 108, executed_time = 9738),
+(21: priority = 108, executed_time = 9738),
+(96: priority = 46, executed_time = 4616),
+(97: priority = 46, executed_time = 4616),
+(98: priority = 46, executed_time = 4616),
+(99: priority = 46, executed_time = 4616),
+(100: priority = 46, executed_time = 4616),
+(100: priority = 69, executed_time = 1862),
+(101: priority = 69, executed_time = 1862),
+(102: priority = 69, executed_time = 1862),
+(103: priority = 69, executed_time = 1862),
+(104: priority = 69, executed_time = 1862),
+(105: priority = 69, executed_time = 1862),
+(106: priority = 69, executed_time = 1862),
+(107: priority = 69, executed_time = 1862),
+(108: priority = 69, executed_time = 1862),
+(109: priority = 69, executed_time = 1862),
+(110: priority = 69, executed_time = 1862),
+(111: priority = 69, executed_time = 1862),
+(112: priority = 69, executed_time = 1862),
+(113: priority = 69, executed_time = 1862),
+(114: priority = 69, executed_time = 1862),
+(115: priority = 69, executed_time = 1862),
+(116: priority = 69, executed_time = 1862),
+(117: priority = 69, executed_time = 1862),
+(118: priority = 69, executed_time = 1862),
+(119: priority = 69, executed_time = 1862),
+(120: priority = 69, executed_time = 1862),
+(121: priority = 69, executed_time = 1862),
+(122: priority = 69, executed_time = 1862),
+(123: priority = 69, executed_time = 1862),
+(124: priority = 69, executed_time = 1862),
+(125: priority = 69, executed_time = 1862),
+(126: priority = 69, executed_time = 1862),
+(127: priority = 69, executed_time = 1862),
+(128: priority = 69, executed_time = 1862),
+(129: priority = 69, executed_time = 1862),
+(130: priority = 69, executed_time = 1862),
+(131: priority = 69, executed_time = 1862),
+(132: priority = 69, executed_time = 1862),
+(133: priority = 69, executed_time = 1862),
+(134: priority = 69, executed_time = 1862),
+(135: priority = 69, executed_time = 1862),
+(136: priority = 69, executed_time = 1862),
+(137: priority = 69, executed_time = 1862),
+(138: priority = 69, executed_time = 1862),
+(139: priority = 69, executed_time = 1862),
+(140: priority = 69, executed_time = 1862),
+(141: priority = 69, executed_time = 1862),
+(142: priority = 69, executed_time = 1862),
+(143: priority = 69, executed_time = 1862),
+(144: priority = 69, executed_time = 1862),
+(145: priority = 69, executed_time = 1862),
+(146: priority = 78, executed_time = 8999),
+(147: priority = 78, executed_time = 8999),
+(148: priority = 78, executed_time = 8999),
+(149: priority = 78, executed_time = 8999),
+(150: priority = 78, executed_time = 8999),
+(151: priority = 78, executed_time = 8999),
+(152: priority = 78, executed_time = 8999),
+(153: priority = 78, executed_time = 8999),
+(154: priority = 78, executed_time = 8999),
+(155: priority = 78, executed_time = 8999),
+(156: priority = 78, executed_time = 8999),
+(157: priority = 78, executed_time = 8999),
+(158: priority = 78, executed_time = 8999),
+(159: priority = 78, executed_time = 8999),
+(160: priority = 78, executed_time = 8999),
+(161: priority = 78, executed_time = 8999),
+(162: priority = 78, executed_time = 8999),
+(163: priority = 78, executed_time = 8999),
+(164: priority = 78, executed_time = 8999),
+(165: priority = 78, executed_time = 8999),
+(166: priority = 78, executed_time = 8999),
+(167: priority = 78, executed_time = 8999),
+(168: priority = 78, executed_time = 8999),
+(169: priority = 78, executed_time = 8999),
+(170: priority = 78, executed_time = 8999),
+(171: priority = 78, executed_time = 8999),
+(172: priority = 78, executed_time = 8999),
+(173: priority = 78, executed_time = 8999),
+(174: priority = 78, executed_time = 8999),
+(175: priority = 78, executed_time = 8999),
+(176: priority = 78, executed_time = 8999),
+(177: priority = 78, executed_time = 8999),
+(178: priority = 78, executed_time = 8999),
+(179: priority = 78, executed_time = 8999),
+(180: priority = 78, executed_time = 8999),
+(181: priority = 78, executed_time = 8999),
+(182: priority = 78, executed_time = 8999),
+(183: priority = 78, executed_time = 8999),
+(184: priority = 78, executed_time = 8999),
+(1: priority = 66, executed_time = 8714),
+(2: priority = 66, executed_time = 8714),
+(3: priority = 66, executed_time = 8714),
+(4: priority = 66, executed_time = 8714),
+(5: priority = 66, executed_time = 8714),
+(6: priority = 66, executed_time = 8714),
+(7: priority = 66, executed_time = 8714),
+(8: priority = 66, executed_time = 8714),
+(9: priority = 66, executed_time = 8714),
+(10: priority = 66, executed_time = 8714),
+(11: priority = 66, executed_time = 8714),
+(12: priority = 66, executed_time = 8714),
+(13: priority = 66, executed_time = 8714),
+(14: priority = 66, executed_time = 8714),
+(15: priority = 66, executed_time = 8714),
+(16: priority = 66, executed_time = 8714),
+(17: priority = 66, executed_time = 8714),
+(18: priority = 66, executed_time = 8714),
+(19: priority = 66, executed_time = 8714),
+(50: priority = 25, executed_time = 3523),
+(51: priority = 25, executed_time = 3523),
+(52: priority = 25, executed_time = 3523),
+(53: priority = 25, executed_time = 3523),
+(54: priority = 25, executed_time = 3523),
+(55: priority = 25, executed_time = 3523),
+(56: priority = 25, executed_time = 3523),
+(57: priority = 25, executed_time = 3523),
+(58: priority = 25, executed_time = 3523),
+(89: priority = 31, executed_time = 8230),
+(90: priority = 31, executed_time = 8230),
+(91: priority = 31, executed_time = 8230),
+(92: priority = 31, executed_time = 8230),
+(93: priority = 31, executed_time = 8230),
+(94: priority = 31, executed_time = 8230),
+(95: priority = 31, executed_time = 8230),
+(96: priority = 31, executed_time = 8230),
+(97: priority = 31, executed_time = 8230),
+(20: priority = 66, executed_time = 8714),
+(21: priority = 66, executed_time = 8714),
+(22: priority = 66, executed_time = 8714),
+(23: priority = 66, executed_time = 8714),
+(24: priority = 66, executed_time = 8714),
+(25: priority = 66, executed_time = 8714),
+(26: priority = 66, executed_time = 8714),
+(27: priority = 66, executed_time = 8714),
+(28: priority = 66, executed_time = 8714),
+(29: priority = 66, executed_time = 8714),
+(30: priority = 66, executed_time = 8714),
+(31: priority = 66, executed_time = 8714),
+(32: priority = 66, executed_time = 8714),
+(33: priority = 66, executed_time = 8714),
+(34: priority = 66, executed_time = 8714),
+(35: priority = 66, executed_time = 8714),
+(36: priority = 66, executed_time = 8714),
+(37: priority = 66, executed_time = 8714),
+(38: priority = 66, executed_time = 8714),
+(39: priority = 66, executed_time = 8714),
+(40: priority = 66, executed_time = 8714),
+(41: priority = 66, executed_time = 8714),
+(42: priority = 66, executed_time = 8714),
+(43: priority = 66, executed_time = 8714),
+(44: priority = 66, executed_time = 8714),
+(45: priority = 66, executed_time = 8714),
+(46: priority = 66, executed_time = 8714),
+(47: priority = 66, executed_time = 8714),
+(48: priority = 66, executed_time = 8714),
+(49: priority = 66, executed_time = 8714),
+(59: priority = 25, executed_time = 3523),
+(60: priority = 25, executed_time = 3523),
+(61: priority = 25, executed_time = 3523),
+(62: priority = 25, executed_time = 3523),
+(63: priority = 25, executed_time = 3523),
+(64: priority = 25, executed_time = 3523),
+(65: priority = 25, executed_time = 3523),
+(66: priority = 25, executed_time = 3523),
+(67: priority = 25, executed_time = 3523),
+(68: priority = 25, executed_time = 3523),
+(69: priority = 25, executed_time = 3523),
+(70: priority = 25, executed_time = 3523),
+(71: priority = 25, executed_time = 3523),
+(72: priority = 25, executed_time = 3523),
+(73: priority = 25, executed_time = 3523),
+(74: priority = 25, executed_time = 3523),
+(75: priority = 25, executed_time = 3523),
+(98: priority = 31, executed_time = 8230),
+(99: priority = 31, executed_time = 8230),
+(76: priority = 25, executed_time = 3523),
+(77: priority = 25, executed_time = 3523),
+(78: priority = 25, executed_time = 3523),
+(79: priority = 25, executed_time = 3523),
+(80: priority = 25, executed_time = 3523),
+(81: priority = 25, executed_time = 3523),
+(82: priority = 25, executed_time = 3523),
+(83: priority = 25, executed_time = 3523),
+(84: priority = 25, executed_time = 3523),
+(85: priority = 25, executed_time = 3523),
+(86: priority = 25, executed_time = 3523),
+(87: priority = 25, executed_time = 3523),
+(88: priority = 25, executed_time = 3523),
+(12: priority = 78, executed_time = 4651),
+(13: priority = 78, executed_time = 4651),
+(14: priority = 78, executed_time = 4651),
+(15: priority = 78, executed_time = 4651),
+(16: priority = 78, executed_time = 4651),
+(17: priority = 78, executed_time = 4651),
+(18: priority = 78, executed_time = 4651),
+(19: priority = 78, executed_time = 4651),
+(20: priority = 78, executed_time = 4651),
+(21: priority = 78, executed_time = 4651),
+(22: priority = 78, executed_time = 4651),
+(23: priority = 78, executed_time = 4651),
+(24: priority = 78, executed_time = 4651),
+(25: priority = 78, executed_time = 4651),
+(26: priority = 78, executed_time = 4651),
+(27: priority = 78, executed_time = 4651),
+(28: priority = 78, executed_time = 4651),
+(29: priority = 78, executed_time = 4651),
+(30: priority = 78, executed_time = 4651),
+(31: priority = 78, executed_time = 4651),
+(32: priority = 78, executed_time = 4651),
+(33: priority = 78, executed_time = 4651),
+(34: priority = 78, executed_time = 4651),
+(35: priority = 78, executed_time = 4651),
+(36: priority = 78, executed_time = 4651),
+(37: priority = 78, executed_time = 4651),
+(38: priority = 78, executed_time = 4651),
+(39: priority = 78, executed_time = 4651),
+(40: priority = 78, executed_time = 4651),
+(41: priority = 78, executed_time = 4651),
+(42: priority = 78, executed_time = 4651),
+(43: priority = 78, executed_time = 4651),
+(44: priority = 78, executed_time = 4651),
+(45: priority = 78, executed_time = 4651),
+(1: priority = 64, executed_time = 4730),
+(2: priority = 64, executed_time = 4730),
+(3: priority = 64, executed_time = 4730),
+(4: priority = 64, executed_time = 4730),
+(5: priority = 64, executed_time = 4730),
+(6: priority = 64, executed_time = 4730),
+(7: priority = 64, executed_time = 4730),
+(8: priority = 64, executed_time = 4730),
+(9: priority = 64, executed_time = 4730),
+(10: priority = 64, executed_time = 4730),
+(11: priority = 64, executed_time = 4730)]
+====== Running in parallel =======
+[]
+Running tasks for 4284258 ms...
+Task 53 is finished (executed_time = 2958).
+Task 91 is finished (executed_time = 4616).
+====== Finished queue =======
+[(1: priority = 3, executed_time = 6094),
+(2: priority = 3, executed_time = 6094),
+(3: priority = 3, executed_time = 6094),
+(4: priority = 3, executed_time = 6094),
+(5: priority = 3, executed_time = 6094),
+(6: priority = 3, executed_time = 6094),
+(7: priority = 3, executed_time = 6094),
+(8: priority = 3, executed_time = 6094),
+(9: priority = 3, executed_time = 6094),
+(10: priority = 3, executed_time = 6094),
+(11: priority = 3, executed_time = 6094),
+(12: priority = 3, executed_time = 6094),
+(13: priority = 3, executed_time = 6094),
+(14: priority = 3, executed_time = 6094),
+(15: priority = 3, executed_time = 6094),
+(16: priority = 3, executed_time = 6094),
+(17: priority = 3, executed_time = 6094),
+(18: priority = 3, executed_time = 6094),
+(19: priority = 3, executed_time = 6094),
+(20: priority = 3, executed_time = 6094),
+(21: priority = 3, executed_time = 6094),
+(22: priority = 3, executed_time = 6094),
+(23: priority = 3, executed_time = 6094),
+(24: priority = 3, executed_time = 6094),
+(25: priority = 3, executed_time = 6094),
+(26: priority = 3, executed_time = 6094),
+(27: priority = 3, executed_time = 6094),
+(28: priority = 3, executed_time = 6094),
+(29: priority = 3, executed_time = 6094),
+(30: priority = 3, executed_time = 6094),
+(22: priority = 123, executed_time = 2153),
+(23: priority = 123, executed_time = 2153),
+(24: priority = 123, executed_time = 2153),
+(25: priority = 123, executed_time = 2153),
+(26: priority = 123, executed_time = 2153),
+(27: priority = 123, executed_time = 2153),
+(28: priority = 123, executed_time = 2153),
+(29: priority = 123, executed_time = 2153),
+(30: priority = 123, executed_time = 2153),
+(31: priority = 74, executed_time = 2958),
+(32: priority = 74, executed_time = 2958),
+(33: priority = 74, executed_time = 2958),
+(34: priority = 74, executed_time = 2958),
+(35: priority = 74, executed_time = 2958),
+(36: priority = 74, executed_time = 2958),
+(37: priority = 74, executed_time = 2958),
+(38: priority = 74, executed_time = 2958),
+(39: priority = 74, executed_time = 2958),
+(40: priority = 74, executed_time = 2958),
+(41: priority = 74, executed_time = 2958),
+(42: priority = 74, executed_time = 2958),
+(43: priority = 74, executed_time = 2958),
+(44: priority = 74, executed_time = 2958),
+(45: priority = 74, executed_time = 2958),
+(46: priority = 74, executed_time = 2958),
+(47: priority = 74, executed_time = 2958),
+(48: priority = 74, executed_time = 2958),
+(49: priority = 74, executed_time = 2958),
+(50: priority = 74, executed_time = 2958),
+(51: priority = 74, executed_time = 2958),
+(52: priority = 74, executed_time = 2958),
+(53: priority = 74, executed_time = 2958),
+(54: priority = 74, executed_time = 2958),
+(55: priority = 74, executed_time = 2958),
+(56: priority = 74, executed_time = 2958),
+(57: priority = 74, executed_time = 2958),
+(58: priority = 74, executed_time = 2958),
+(59: priority = 74, executed_time = 2958),
+(60: priority = 74, executed_time = 2958),
+(61: priority = 74, executed_time = 2958),
+(62: priority = 74, executed_time = 2958),
+(63: priority = 74, executed_time = 2958),
+(64: priority = 74, executed_time = 2958),
+(65: priority = 74, executed_time = 2958),
+(66: priority = 74, executed_time = 2958),
+(67: priority = 74, executed_time = 2958),
+(68: priority = 46, executed_time = 4616),
+(69: priority = 46, executed_time = 4616),
+(70: priority = 46, executed_time = 4616),
+(71: priority = 46, executed_time = 4616),
+(72: priority = 46, executed_time = 4616),
+(73: priority = 46, executed_time = 4616),
+(74: priority = 46, executed_time = 4616),
+(75: priority = 46, executed_time = 4616),
+(76: priority = 46, executed_time = 4616),
+(77: priority = 46, executed_time = 4616),
+(78: priority = 46, executed_time = 4616),
+(79: priority = 46, executed_time = 4616),
+(80: priority = 46, executed_time = 4616),
+(81: priority = 46, executed_time = 4616),
+(82: priority = 46, executed_time = 4616),
+(83: priority = 46, executed_time = 4616),
+(84: priority = 46, executed_time = 4616),
+(85: priority = 46, executed_time = 4616),
+(86: priority = 46, executed_time = 4616),
+(87: priority = 46, executed_time = 4616),
+(88: priority = 46, executed_time = 4616),
+(89: priority = 46, executed_time = 4616),
+(90: priority = 46, executed_time = 4616),
+(91: priority = 46, executed_time = 4616),
+(92: priority = 46, executed_time = 4616),
+(93: priority = 46, executed_time = 4616),
+(94: priority = 46, executed_time = 4616),
+(95: priority = 46, executed_time = 4616),
+(1: priority = 108, executed_time = 9738),
+(2: priority = 108, executed_time = 9738),
+(3: priority = 108, executed_time = 9738),
+(4: priority = 108, executed_time = 9738),
+(5: priority = 108, executed_time = 9738),
+(6: priority = 108, executed_time = 9738),
+(7: priority = 108, executed_time = 9738),
+(8: priority = 108, executed_time = 9738),
+(9: priority = 108, executed_time = 9738),
+(10: priority = 108, executed_time = 9738),
+(11: priority = 108, executed_time = 9738),
+(12: priority = 108, executed_time = 9738),
+(13: priority = 108, executed_time = 9738),
+(14: priority = 108, executed_time = 9738),
+(15: priority = 108, executed_time = 9738),
+(16: priority = 108, executed_time = 9738),
+(17: priority = 108, executed_time = 9738),
+(18: priority = 108, executed_time = 9738),
+(19: priority = 108, executed_time = 9738),
+(20: priority = 108, executed_time = 9738),
+(21: priority = 108, executed_time = 9738),
+(96: priority = 46, executed_time = 4616),
+(97: priority = 46, executed_time = 4616),
+(98: priority = 46, executed_time = 4616),
+(99: priority = 46, executed_time = 4616),
+(100: priority = 46, executed_time = 4616),
+(100: priority = 69, executed_time = 1862),
+(101: priority = 69, executed_time = 1862),
+(102: priority = 69, executed_time = 1862),
+(103: priority = 69, executed_time = 1862),
+(104: priority = 69, executed_time = 1862),
+(105: priority = 69, executed_time = 1862),
+(106: priority = 69, executed_time = 1862),
+(107: priority = 69, executed_time = 1862),
+(108: priority = 69, executed_time = 1862),
+(109: priority = 69, executed_time = 1862),
+(110: priority = 69, executed_time = 1862),
+(111: priority = 69, executed_time = 1862),
+(112: priority = 69, executed_time = 1862),
+(113: priority = 69, executed_time = 1862),
+(114: priority = 69, executed_time = 1862),
+(115: priority = 69, executed_time = 1862),
+(116: priority = 69, executed_time = 1862),
+(117: priority = 69, executed_time = 1862),
+(118: priority = 69, executed_time = 1862),
+(119: priority = 69, executed_time = 1862),
+(120: priority = 69, executed_time = 1862),
+(121: priority = 69, executed_time = 1862),
+(122: priority = 69, executed_time = 1862),
+(123: priority = 69, executed_time = 1862),
+(124: priority = 69, executed_time = 1862),
+(125: priority = 69, executed_time = 1862),
+(126: priority = 69, executed_time = 1862),
+(127: priority = 69, executed_time = 1862),
+(128: priority = 69, executed_time = 1862),
+(129: priority = 69, executed_time = 1862),
+(130: priority = 69, executed_time = 1862),
+(131: priority = 69, executed_time = 1862),
+(132: priority = 69, executed_time = 1862),
+(133: priority = 69, executed_time = 1862),
+(134: priority = 69, executed_time = 1862),
+(135: priority = 69, executed_time = 1862),
+(136: priority = 69, executed_time = 1862),
+(137: priority = 69, executed_time = 1862),
+(138: priority = 69, executed_time = 1862),
+(139: priority = 69, executed_time = 1862),
+(140: priority = 69, executed_time = 1862),
+(141: priority = 69, executed_time = 1862),
+(142: priority = 69, executed_time = 1862),
+(143: priority = 69, executed_time = 1862),
+(144: priority = 69, executed_time = 1862),
+(145: priority = 69, executed_time = 1862),
+(146: priority = 78, executed_time = 8999),
+(147: priority = 78, executed_time = 8999),
+(148: priority = 78, executed_time = 8999),
+(149: priority = 78, executed_time = 8999),
+(150: priority = 78, executed_time = 8999),
+(151: priority = 78, executed_time = 8999),
+(152: priority = 78, executed_time = 8999),
+(153: priority = 78, executed_time = 8999),
+(154: priority = 78, executed_time = 8999),
+(155: priority = 78, executed_time = 8999),
+(156: priority = 78, executed_time = 8999),
+(157: priority = 78, executed_time = 8999),
+(158: priority = 78, executed_time = 8999),
+(159: priority = 78, executed_time = 8999),
+(160: priority = 78, executed_time = 8999),
+(161: priority = 78, executed_time = 8999),
+(162: priority = 78, executed_time = 8999),
+(163: priority = 78, executed_time = 8999),
+(164: priority = 78, executed_time = 8999),
+(165: priority = 78, executed_time = 8999),
+(166: priority = 78, executed_time = 8999),
+(167: priority = 78, executed_time = 8999),
+(168: priority = 78, executed_time = 8999),
+(169: priority = 78, executed_time = 8999),
+(170: priority = 78, executed_time = 8999),
+(171: priority = 78, executed_time = 8999),
+(172: priority = 78, executed_time = 8999),
+(173: priority = 78, executed_time = 8999),
+(174: priority = 78, executed_time = 8999),
+(175: priority = 78, executed_time = 8999),
+(176: priority = 78, executed_time = 8999),
+(177: priority = 78, executed_time = 8999),
+(178: priority = 78, executed_time = 8999),
+(179: priority = 78, executed_time = 8999),
+(180: priority = 78, executed_time = 8999),
+(181: priority = 78, executed_time = 8999),
+(182: priority = 78, executed_time = 8999),
+(183: priority = 78, executed_time = 8999),
+(184: priority = 78, executed_time = 8999),
+(1: priority = 66, executed_time = 8714),
+(2: priority = 66, executed_time = 8714),
+(3: priority = 66, executed_time = 8714),
+(4: priority = 66, executed_time = 8714),
+(5: priority = 66, executed_time = 8714),
+(6: priority = 66, executed_time = 8714),
+(7: priority = 66, executed_time = 8714),
+(8: priority = 66, executed_time = 8714),
+(9: priority = 66, executed_time = 8714),
+(10: priority = 66, executed_time = 8714),
+(11: priority = 66, executed_time = 8714),
+(12: priority = 66, executed_time = 8714),
+(13: priority = 66, executed_time = 8714),
+(14: priority = 66, executed_time = 8714),
+(15: priority = 66, executed_time = 8714),
+(16: priority = 66, executed_time = 8714),
+(17: priority = 66, executed_time = 8714),
+(18: priority = 66, executed_time = 8714),
+(19: priority = 66, executed_time = 8714),
+(50: priority = 25, executed_time = 3523),
+(51: priority = 25, executed_time = 3523),
+(52: priority = 25, executed_time = 3523),
+(53: priority = 25, executed_time = 3523),
+(54: priority = 25, executed_time = 3523),
+(55: priority = 25, executed_time = 3523),
+(56: priority = 25, executed_time = 3523),
+(57: priority = 25, executed_time = 3523),
+(58: priority = 25, executed_time = 3523),
+(89: priority = 31, executed_time = 8230),
+(90: priority = 31, executed_time = 8230),
+(91: priority = 31, executed_time = 8230),
+(92: priority = 31, executed_time = 8230),
+(93: priority = 31, executed_time = 8230),
+(94: priority = 31, executed_time = 8230),
+(95: priority = 31, executed_time = 8230),
+(96: priority = 31, executed_time = 8230),
+(97: priority = 31, executed_time = 8230),
+(20: priority = 66, executed_time = 8714),
+(21: priority = 66, executed_time = 8714),
+(22: priority = 66, executed_time = 8714),
+(23: priority = 66, executed_time = 8714),
+(24: priority = 66, executed_time = 8714),
+(25: priority = 66, executed_time = 8714),
+(26: priority = 66, executed_time = 8714),
+(27: priority = 66, executed_time = 8714),
+(28: priority = 66, executed_time = 8714),
+(29: priority = 66, executed_time = 8714),
+(30: priority = 66, executed_time = 8714),
+(31: priority = 66, executed_time = 8714),
+(32: priority = 66, executed_time = 8714),
+(33: priority = 66, executed_time = 8714),
+(34: priority = 66, executed_time = 8714),
+(35: priority = 66, executed_time = 8714),
+(36: priority = 66, executed_time = 8714),
+(37: priority = 66, executed_time = 8714),
+(38: priority = 66, executed_time = 8714),
+(39: priority = 66, executed_time = 8714),
+(40: priority = 66, executed_time = 8714),
+(41: priority = 66, executed_time = 8714),
+(42: priority = 66, executed_time = 8714),
+(43: priority = 66, executed_time = 8714),
+(44: priority = 66, executed_time = 8714),
+(45: priority = 66, executed_time = 8714),
+(46: priority = 66, executed_time = 8714),
+(47: priority = 66, executed_time = 8714),
+(48: priority = 66, executed_time = 8714),
+(49: priority = 66, executed_time = 8714),
+(59: priority = 25, executed_time = 3523),
+(60: priority = 25, executed_time = 3523),
+(61: priority = 25, executed_time = 3523),
+(62: priority = 25, executed_time = 3523),
+(63: priority = 25, executed_time = 3523),
+(64: priority = 25, executed_time = 3523),
+(65: priority = 25, executed_time = 3523),
+(66: priority = 25, executed_time = 3523),
+(67: priority = 25, executed_time = 3523),
+(68: priority = 25, executed_time = 3523),
+(69: priority = 25, executed_time = 3523),
+(70: priority = 25, executed_time = 3523),
+(71: priority = 25, executed_time = 3523),
+(72: priority = 25, executed_time = 3523),
+(73: priority = 25, executed_time = 3523),
+(74: priority = 25, executed_time = 3523),
+(75: priority = 25, executed_time = 3523),
+(98: priority = 31, executed_time = 8230),
+(99: priority = 31, executed_time = 8230),
+(76: priority = 25, executed_time = 3523),
+(77: priority = 25, executed_time = 3523),
+(78: priority = 25, executed_time = 3523),
+(79: priority = 25, executed_time = 3523),
+(80: priority = 25, executed_time = 3523),
+(81: priority = 25, executed_time = 3523),
+(82: priority = 25, executed_time = 3523),
+(83: priority = 25, executed_time = 3523),
+(84: priority = 25, executed_time = 3523),
+(85: priority = 25, executed_time = 3523),
+(86: priority = 25, executed_time = 3523),
+(87: priority = 25, executed_time = 3523),
+(88: priority = 25, executed_time = 3523),
+(12: priority = 78, executed_time = 4651),
+(13: priority = 78, executed_time = 4651),
+(14: priority = 78, executed_time = 4651),
+(15: priority = 78, executed_time = 4651),
+(16: priority = 78, executed_time = 4651),
+(17: priority = 78, executed_time = 4651),
+(18: priority = 78, executed_time = 4651),
+(19: priority = 78, executed_time = 4651),
+(20: priority = 78, executed_time = 4651),
+(21: priority = 78, executed_time = 4651),
+(22: priority = 78, executed_time = 4651),
+(23: priority = 78, executed_time = 4651),
+(24: priority = 78, executed_time = 4651),
+(25: priority = 78, executed_time = 4651),
+(26: priority = 78, executed_time = 4651),
+(27: priority = 78, executed_time = 4651),
+(28: priority = 78, executed_time = 4651),
+(29: priority = 78, executed_time = 4651),
+(30: priority = 78, executed_time = 4651),
+(31: priority = 78, executed_time = 4651),
+(32: priority = 78, executed_time = 4651),
+(33: priority = 78, executed_time = 4651),
+(34: priority = 78, executed_time = 4651),
+(35: priority = 78, executed_time = 4651),
+(36: priority = 78, executed_time = 4651),
+(37: priority = 78, executed_time = 4651),
+(38: priority = 78, executed_time = 4651),
+(39: priority = 78, executed_time = 4651),
+(40: priority = 78, executed_time = 4651),
+(41: priority = 78, executed_time = 4651),
+(42: priority = 78, executed_time = 4651),
+(43: priority = 78, executed_time = 4651),
+(44: priority = 78, executed_time = 4651),
+(45: priority = 78, executed_time = 4651),
+(1: priority = 64, executed_time = 4730),
+(2: priority = 64, executed_time = 4730),
+(3: priority = 64, executed_time = 4730),
+(4: priority = 64, executed_time = 4730),
+(5: priority = 64, executed_time = 4730),
+(6: priority = 64, executed_time = 4730),
+(7: priority = 64, executed_time = 4730),
+(8: priority = 64, executed_time = 4730),
+(9: priority = 64, executed_time = 4730),
+(10: priority = 64, executed_time = 4730),
+(11: priority = 64, executed_time = 4730),
+(1: priority = 25, executed_time = 9247),
+(2: priority = 25, executed_time = 9247),
+(3: priority = 25, executed_time = 9247),
+(4: priority = 25, executed_time = 9247),
+(5: priority = 25, executed_time = 9247),
+(6: priority = 25, executed_time = 9247),
+(7: priority = 25, executed_time = 9247),
+(8: priority = 25, executed_time = 9247),
+(9: priority = 25, executed_time = 9247),
+(10: priority = 25, executed_time = 9247),
+(11: priority = 25, executed_time = 9247),
+(12: priority = 25, executed_time = 9247),
+(13: priority = 25, executed_time = 9247),
+(14: priority = 25, executed_time = 9247)]
+Task 370 not found.
+Total time: 51710

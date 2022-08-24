@@ -1,0 +1,22 @@
+500
+57
+add_tasks 1 1000 4
+add_tasks 2 1000 49
+get_task 3
+add_tasks 3 1500 76
+run 5000
+print finished
+print waiting
+add_tasks 4 500 0
+add_tasks 2 1000 65
+get_thread 33
+get_thread 100
+print finished
+get_task 11
+get_thread 75
+get_thread 94
+add_tasks 2 2500 113
+run 4500
+get_thread 45
+get_task 14
+run 3500

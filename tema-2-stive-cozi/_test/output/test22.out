@@ -1,0 +1,58 @@
+Thread 62 is idle.
+Task created successfully : ID 1.
+Task created successfully : ID 2.
+Task created successfully : ID 3.
+Task created successfully : ID 4.
+Task created successfully : ID 5.
+Task created successfully : ID 6.
+Task created successfully : ID 7.
+Task created successfully : ID 8.
+Task created successfully : ID 9.
+Task created successfully : ID 10.
+Task created successfully : ID 11.
+Task created successfully : ID 12.
+Task created successfully : ID 13.
+Task created successfully : ID 14.
+Task created successfully : ID 15.
+Task created successfully : ID 16.
+Task created successfully : ID 17.
+Task created successfully : ID 18.
+Task created successfully : ID 19.
+Task created successfully : ID 20.
+Task created successfully : ID 21.
+====== Waiting queue =======
+[(17: priority = 108, remaining_time = 400),
+(18: priority = 108, remaining_time = 400),
+(19: priority = 108, remaining_time = 400),
+(20: priority = 108, remaining_time = 400),
+(21: priority = 108, remaining_time = 400),
+(7: priority = 75, remaining_time = 600),
+(8: priority = 75, remaining_time = 600),
+(9: priority = 75, remaining_time = 600),
+(10: priority = 75, remaining_time = 600),
+(6: priority = 59, remaining_time = 1000),
+(11: priority = 57, remaining_time = 600),
+(12: priority = 57, remaining_time = 600),
+(13: priority = 57, remaining_time = 600),
+(1: priority = 51, remaining_time = 400),
+(2: priority = 51, remaining_time = 400),
+(3: priority = 51, remaining_time = 400),
+(4: priority = 51, remaining_time = 400),
+(5: priority = 51, remaining_time = 400),
+(14: priority = 43, remaining_time = 800),
+(15: priority = 43, remaining_time = 800),
+(16: priority = 43, remaining_time = 800)]
+Task created successfully : ID 22.
+Task created successfully : ID 23.
+Task created successfully : ID 24.
+Task created successfully : ID 25.
+Task created successfully : ID 26.
+Task created successfully : ID 27.
+====== Finished queue =======
+[]
+====== Running in parallel =======
+[]
+====== Finished queue =======
+[]
+Thread 51 is idle.
+Total time: 1000
