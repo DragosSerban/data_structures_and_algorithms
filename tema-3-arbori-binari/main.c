@@ -32,7 +32,7 @@ TDirectory *initializeRoot ()
 }
 
 // Functie - creare fisier si introducere in arborele de fisiere
-int touch (TDirectory *currentDirectory , char *p)
+int touch (TDirectory *currentDirectory, char *p)
 {
 	p = strtok(NULL, " \n");
 	insertFile (&currentDirectory->files,
@@ -123,29 +123,13 @@ TFileTree rm (TFileTree a, char *name)
 			// aflam minimul de pe ramura din dreapta a parintelui
 			// si elementul aflat inaintea sa
 			TFileTree min = a->right;
-			TFileTree beforeMin = a;
 			while (min->left != NULL)
-			{
-				beforeMin = min;
 				min = min->left;
-			}
 			// mutam fisierul minim de mai sus in locul fisierului
 			// vechi - copiem numele lui
 			strcpy (a->name, min->name);
 
-			if (min->right == NULL && beforeMin == a)
-				// min este frunza si a este parintele lui min
-				beforeMin->right = NULL;
-			else if (min->right != NULL)
-				// min nu este frunza
-				beforeMin->right = min->right;
-			else
-				// min e frunza, dar a nu e parintele lui min
-				beforeMin->left = NULL;
-
-			// eliberam memoria pt nodul mutat
-			free (min->name);
-			free (min);
+			a->right = rm (a->right, min->name);
 		}
 	}
 	return a;
@@ -204,12 +188,8 @@ TDirTree rmdir(TDirTree a, char *name)
 			// aflam minimul de pe ramura din dreapta a parintelui
 			// si elementul aflat inaintea sa
 			TDirTree min = a->right;
-			TDirTree beforeMin = a;
 			while (min->left != NULL)
-			{
-				beforeMin = min;
 				min = min->left;
-			}
 			// mutam directorul minim in locul directorului actual
 			// vechi - copiem numele lui
 			strcpy (a->name, min->name);
@@ -218,23 +198,11 @@ TDirTree rmdir(TDirTree a, char *name)
 			destroyFiles (&a->files);
 			destroyDirectory (&a->directories);
 
-			if (min->right == NULL && beforeMin == a)
-				// min este frunza si a este parintele lui min
-				beforeMin->right = NULL;
-			else if (min->right != NULL)
-				// min nu este frunza
-				beforeMin->right = min->right;
-			else
-				// min e frunza, dar a nu e parintele lui min
-				beforeMin->left = NULL;
-
 			// actualizam pointerii
 			a->files = min->files;
 			a->directories = min->directories;
-			// eliberam memoria pentru min
-			free (min->name);
-			free (min);
-			min = NULL;
+
+			a->right = rmdir(a->right, min->name);
 		}
 	}
 	return a;

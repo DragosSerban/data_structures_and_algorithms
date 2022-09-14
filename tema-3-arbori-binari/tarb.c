@@ -55,16 +55,10 @@ TDirectory* constrFrunzaDirectory (void *x)
 	return aux;
 }
 
-// Functie - compara un sir de caractere cu numele unui fisier
-int fcmp_file (void *x, void *y)
+// Functie - compara 2 siruri de caractere
+int fcmp (void *x, void *y)
 {
-	return strcmp ((char*)x, ((TFile*)y)->name);
-}
-
-// Functie - compara un sir de caractere cu numele unui director
-int fcmp_dir (void *x, void *y)
-{
-	return strcmp ((char*)x, ((TDirectory*)y)->name);
+	return strcmp ((char*)x, (char*)y);
 }
 
 // Functie - insereaza un nou fisier in arborele de fisiere
@@ -76,12 +70,12 @@ int insertFile (TFileTree *fTree, TDirTree dTree, TDirectory *parent, void *x)
 	// verificam daca exista vreun director cu denumirea pe care vrem sa
 	// o dam fisierului
 	while (m) {
-		if (!fcmp_dir(x, m)) {
+		if (!fcmp (x, m->name)) {
 			// daca exista, nu cream fisierul
 			printf("Directory %s already exists!\n", (char*)x);
 			return 0;
 		}
-		if (fcmp_dir(x, m) < 0)
+		if (fcmp (x, m->name) < 0)
 			m = m->left;
 		else
 			m = m->right;
@@ -100,12 +94,12 @@ int insertFile (TFileTree *fTree, TDirTree dTree, TDirectory *parent, void *x)
 	n = *fTree;
 	while (n) {
 		p = n;
-		if (!fcmp_file(x, n)) {
+		if (!fcmp (x, n->name)) {
 			// daca exista, nu cream fisierul
 			printf("File %s already exists!\n", (char*)x);
 			return 0;
 		}
-		if (fcmp_file(x, n) < 0)
+		if (fcmp (x, n->name) < 0)
 			n = n->left;
 		else
 			n = n->right;
@@ -118,7 +112,7 @@ int insertFile (TFileTree *fTree, TDirTree dTree, TDirectory *parent, void *x)
 	aux->parent = parent;
 
 	// inseram frunza in arborele binar de cautare la locul potrivit
-	if (fcmp_file(x, p) < 0)
+	if (fcmp (x, p->name) < 0)
 		p->left = aux;
 	else
 		p->right = aux;
@@ -134,12 +128,12 @@ int insertDir (TDirTree *dTree, TFileTree fTree, TDirectory *parent, void* x)
 	// verificam daca exista vreun fisier cu denumirea pe care vrem sa
 	// o dam directorului
 	while (m) {
-		if (!fcmp_file(x, m)) {
+		if (!fcmp (x, m->name)) {
 			// daca exista, nu cream directorul
 			printf("File %s already exists!\n", (char*)x);
 			return 0;
 		}
-		if (fcmp_file(x, m) < 0)
+		if (fcmp (x, m->name) < 0)
 			m = m->left;
 		else
 			m = m->right;
@@ -159,12 +153,12 @@ int insertDir (TDirTree *dTree, TFileTree fTree, TDirectory *parent, void* x)
 	n = *dTree;
 	while (n) {
 		p = n;
-		if (!fcmp_dir(x, n)) {
+		if (!fcmp (x, n->name)) {
 			// daca exista, nu cream directorul
 			printf("Directory %s already exists!\n", (char*)x);
 			return 0;
 		}
-		if (fcmp_dir(x, n) < 0)
+		if (fcmp (x, n->name) < 0)
 			n = n->left;
 		else
 			n = n->right;
@@ -177,7 +171,7 @@ int insertDir (TDirTree *dTree, TFileTree fTree, TDirectory *parent, void* x)
 	aux->parent = parent;
 
 	// inseram frunza in arborele binar de cautare la locul potrivit
-	if (fcmp_dir(x, p) < 0)
+	if (fcmp (x, p->name) < 0)
 		p->left = aux;
 	else
 		p->right = aux;
