@@ -178,25 +178,17 @@ int insertDir (TDirTree *dTree, TFileTree fTree, TDirectory *parent, void* x)
 	return 1;
 }
 
-// Functie auxiliara pt destroyFiles - distruge toate nodurile
-void destroy (TFileTree r)
-{
-	if (!r)
-		return;
-	destroy (r->left);
-	destroy (r->right);
-	// elibereaza spatiul ocupat de nume si distruge nodul radacina
-	free (r->name);
-	free (r);
-}
-
 // Functie - distruge arbore de fisiere
-void destroyFiles (TFileTree *a)
+void destroyFiles (TFileTree *r)
 {
-	if (!(*a))
+	if (!*r)
 		return;
-	destroy (*a);
-	*a = NULL;
+	destroyFiles (&(*r)->left);
+	destroyFiles (&(*r)->right);
+	// elibereaza spatiul ocupat de nume si distruge nodul radacina
+	free ((*r)->name);
+	free (*r);
+	*r = NULL;
 }
 
 // Functie - distruge arbore de directoare
